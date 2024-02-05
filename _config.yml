@@ -8,8 +8,8 @@ homepage:
   show_call_box: true
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
+  mobile: "images/logo/logo-mobile.jpg"
+  desktop: "images/logo/logo.jpg"
   desktop_height: "36px"
 
 footer:
