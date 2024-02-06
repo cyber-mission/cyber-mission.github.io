@@ -1,11 +1,11 @@
 baseurl: "/"
 permalink: pretty
-title: "Jekyll Serif"
+title: "CYBER Mission Award"
 
 google_analytics_id: ""
 
 homepage:
-  show_call_box: true
+  show_call_box: false
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -20,13 +20,13 @@ seo:
   meta_og_type: "website"
   meta_og_url: "https://cyber-mission.github.io"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description: "CYBER Mission Award Homepage"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@chofski"
+  meta_twitter_creator: "@chofski"
 
 collections:
-  services:
+  events:
     output: true
   team:
     output: true
