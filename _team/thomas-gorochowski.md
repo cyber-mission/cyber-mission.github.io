@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/thomas-gorochowski.jpg"
 jobtitle: "Principal Investigator"
-website: "https://www.linkedin.com/"
+website: "https://biocomputelab.github.io"
 investigator: true
 weight: 1
 layout: team
