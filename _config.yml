@@ -30,7 +30,7 @@ collections:
     output: true
   events:
     output: true
-  services:
+  projects:
     output: true
   team:
     output: true
