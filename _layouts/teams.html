@@ -104,9 +104,9 @@ bodyClass: page-team-list
             <div class="row justify-content-center">
                 {% for partner in site.data.partners %}
                 <div class="col-12 col-md-3 col-lg-2 mb-0 strip-grey">
-                    <div class="feature">
+                    <div class="feature strip-grey">
                         {% if partner.image %}
-                        <div class="partner-image">
+                        <div class="partner-image strip-grey">
                             <img
                                 alt="{{ partner.title }} logo"
                                 src="{{ partner.image | relative_url }}"
