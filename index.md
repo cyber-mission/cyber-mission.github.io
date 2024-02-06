@@ -1,7 +1,7 @@
 ---
 title: CYBER Mission
 layout: home
-description: Welcome to the CYBER Mission that...
+description: CYBER Mission
 ---
 
 # Our Mission

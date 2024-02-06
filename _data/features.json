@@ -1,17 +1,22 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Ecological Wind Tunnels",
+    "description": "Build multi-scale ecological models to support the development and rigorous testing of engineered organisms in artificial ecosystems that more closely mimic the complex spatial- temporal organisation and interactions of the real-world.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "AI + Massively Parallel Assays",
+    "description": "Show how massively parallel reporter assays (MPRAs) and sequencing-based surveillance, combined with rigorous metrology and advanced AI techniques, can enable the rapid development of genetic tools to reprogram diverse and environmentally important microbes such as cyanobacteria and track their dispersal in an ecosystem.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Cyber-Bio Security",
+    "description": "Improve the cyber-bio security of engineered cells to enable their traceability in natural environments and ensure trustworthy cell products that can be safely deployed into the wild.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Real-World Impact",
+    "description": "Explore novel translational opportunities by engineering cyanobacteria to efficiently absorb a variety of pollutants from the environment and implement features that simplify their removal.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
