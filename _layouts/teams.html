@@ -73,3 +73,16 @@ bodyClass: page-team-list
         {% endfor %}
     </div>
 </div>
+
+
+<div class="container pb-3 pt-1">
+    <div class="row">
+        {% for partner in site.data.partners %}
+        <div class="col-12 col-md-6 mb-2">
+            <div class="team team-summary team-summary-large">
+                <img src="{{ partner.image }}">
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
