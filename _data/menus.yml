@@ -9,7 +9,7 @@ main:
     url: "/projects/"
     weight: 4
   - name: "Blog"
-    url: "/blog/"
+    url: "/blogs/"
     weight: 5
   - name: "Events"
     url: "/events/"
