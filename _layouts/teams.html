@@ -85,7 +85,7 @@ bodyClass: page-team-list
             <div class="col-12 col-md-4 col-lg-4 mb-1">
                 <div class="feature">
                     {% if institution.image %}
-                    <div class="institution-image">
+                    <div class="institution-image strip-grey">
                         <img
                             alt="{{ institution.title }} logo"
                             src="{{ institution.image | relative_url }}"
@@ -106,7 +106,7 @@ bodyClass: page-team-list
                 <div class="col-12 col-md-3 col-lg-2 mb-0">
                     <div class="feature">
                         {% if partner.image %}
-                        <div class="partner-image">
+                        <div class="partner-image strip-grey">
                             <img
                                 alt="{{ partner.title }} logo"
                                 src="{{ partner.image | relative_url }}"
