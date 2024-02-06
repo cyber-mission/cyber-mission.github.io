@@ -4,6 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/chris-clements.jpg"
 jobtitle: "Co-Investigator"
+organisation: "University of Bristol, UK"
 website: "https://www.experimentalconservation.com"
 investigator: true
 weight: 2

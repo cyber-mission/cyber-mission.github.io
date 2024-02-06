@@ -35,6 +35,9 @@ bodyClass: page-team-list
                         >
                     </h2>
                     <p class="team-description">{{ team.jobtitle }}</p>
+                    {% if team.organisation %}
+                    <p>{{ team.organisation }}</p>
+                    {% endif %}
                     {% if team.website %}
                     <a target="_blank" href="{{ team.website }}">Website</a>
                     {% endif %}
