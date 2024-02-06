@@ -15,16 +15,6 @@ bodyClass: page-team-list
 
 <div class="container pb-3 pt-1">
     <div class="row">
-        <div class="col-12 col-md-6 mb-3" style="width: 100%">
-            {% for institution in site.data.institutions %}
-                <img height=65px src="{{ institution.image | relative_url }}"/>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-
-<div class="container pb-3 pt-1">
-    <div class="row">
         {% assign investigator_teams = site.team | where: "investigator", true |
         sort: "weight" %} {% for team in investigator_teams %}
         <div class="col-12 col-md-6 mb-2">
@@ -83,6 +73,29 @@ bodyClass: page-team-list
         {% endfor %}
     </div>
 </div>
+
+{% if site.data.institutions %}
+<div class="strip strip-grey">
+    <div class="pt-md-6 pb-md-4 container pb-3 pt-4">
+        <div class="row justify-content-center">
+            {% for institution in site.data.institutions %}
+            <div class="col-12 col-md-6 col-lg-4 mb-2">
+                <div class="feature">
+                    {% if institution.image %}
+                    <div class="institution-image">
+                        <img
+                            alt="{{ institution.title }} logo"
+                            src="{{ institution.image | relative_url }}"
+                        />
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endif %}
 
 <div class="container pb-3 pt-1">
     <div class="row">
