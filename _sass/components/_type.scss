@@ -8,12 +8,12 @@ p {
   margin-bottom: 20px;
 }
 h1 {
-  font-size: 44px;
+  font-size: 48px;
   font-family: $title-font-family;
   line-height: 1.2;
   margin-bottom: 20px;
   @include media-breakpoint-up(md) {
-    font-size: 44px;
+    font-size: 48px;
     line-height: 1.2;
   }
 }
