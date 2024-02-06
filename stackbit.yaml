@@ -167,14 +167,6 @@ models:
           type: model
           models:
             - site_menu_item
-      - type: list
-        name: footer
-        label: Footer menu
-        description: List of items for Footer menu
-        items:
-          type: model
-          models:
-            - site_menu_item
   site_menu_item:
     type: object
     label: Site Menu Item
@@ -261,8 +253,6 @@ models:
         options:
           - label: Main Menu
             value: main
-          - label: Footer Menu
-            value: footer
       - type: string
         name: bodyClass
   project:
@@ -421,7 +411,7 @@ models:
         options:
           - label: blog
             value: blog
-  events:
+  blogs:
     type: page
     label: Blogs Overview
     file: blogs.md
