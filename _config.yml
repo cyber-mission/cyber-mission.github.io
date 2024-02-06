@@ -32,7 +32,7 @@ collections:
   events:
     output: true
   projects:
-    output: false
+    output: true
   team:
     output: true
 
