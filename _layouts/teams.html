@@ -74,10 +74,12 @@ bodyClass: page-team-list
     </div>
 </div>
 
-
 <div class="strip strip-grey">
-    {% if site.data.institutions %}
     <div class="pt-md-1 pb-md-1 container pb-1 pt-1">
+        <div class="row justify-content-center pb-1">
+            <p class="silkscreen">Institutions & Partners</p>
+        </div>
+        {% if site.data.institutions %}
         <div class="row justify-content-center">
             {% for institution in site.data.institutions %}
             <div class="col-12 col-md-4 col-lg-4 mb-1">
@@ -94,8 +96,8 @@ bodyClass: page-team-list
             </div>
             {% endfor %}
         </div>
+        {% endif %}
     </div>
-    {% endif %}
 
     {% if site.data.partners %}
         <div class="pt-md-0 pb-md-1 container pb-1 pt-0">
