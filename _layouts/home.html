@@ -28,33 +28,6 @@ bodyClass: page-home
     </div>
 </div>
 
-<div class="strip">
-    <div class="pb-md-6 container pb-3 pt-3">
-        <div class="row pb-1 text-center">
-            <h2 class="silkscreen">Projects</h2>
-        </div>
-        <div class="row justify-content-start">
-            {% for project in site.projects %}
-            <div class="col-12 col-md-4 mb-1">
-                <div class="project project-summary">
-                    <div class="project-content">
-                        <h2 class="project-title">
-                            <a href="{{ project.url | relative_url }}"
-                                >{{ project.title }}</a
-                            >
-                        </h2>
-                        <p>
-                            {{ project.content | markdownify | strip_html |
-                            truncate: 100 }}
-                        </p>
-                    </div>
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-
 {% if site.data.features %}
 <div class="strip strip-grey">
     <div class="pt-md-6 pb-md-4 container pb-3 pt-4">
