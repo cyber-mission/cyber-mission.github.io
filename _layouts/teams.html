@@ -13,7 +13,7 @@ bodyClass: page-team-list
     </div>
 </div>
 
-<div class="container pb-3 pt-3">
+<div class="container pb-3 pt-1">
     <div class="row">
         {% assign investigator_teams = site.team | where: "investigator", true |
         sort: "weight" %} {% for team in investigator_teams %}
