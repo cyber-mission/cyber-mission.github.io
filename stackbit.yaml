@@ -10,7 +10,9 @@ pagesDir: ""
 pageLayoutKey: null
 logicFields:
   - site_menu_item.weight
-  - service.weight
+  - event.weight
+  - blog.weight
+  - project.weight
   - team.weight
 models:
   config:
@@ -85,7 +87,21 @@ models:
         name: collections
         fields:
           - type: object
-            name: services
+            name: events
+            fields:
+              - type: boolean
+                name: output
+              - type: string
+                name: permalink
+          - type: object
+            name: blogs
+            fields:
+              - type: boolean
+                name: output
+              - type: string
+                name: permalink
+          - type: object
+            name: projects
             fields:
               - type: boolean
                 name: output

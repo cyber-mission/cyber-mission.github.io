@@ -3,6 +3,6 @@ title: Blog Posts
 layout: blogs
 ---
 
-# Blog Posts
+# Latest from the lab
 
 This will be where blog posts are listed
