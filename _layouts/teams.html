@@ -75,12 +75,13 @@ bodyClass: page-team-list
 </div>
 
 {% if site.data.institutions %}
+<h2>Institutions</h2>
 <div class="strip strip-grey">
-    <div class="pt-md-6 pb-md-4 container pb-3 pt-4">
+    <div class="pt-md-2 pb-md-2 container pb-2 pt-2">
         <div class="row justify-content-center">
             {% for institution in site.data.institutions %}
             <div class="col-12 col-md-6 col-lg-4 mb-2">
-                <div class="feature">
+                <div class="institution">
                     {% if institution.image %}
                     <div class="institution-image">
                         <img
@@ -97,12 +98,26 @@ bodyClass: page-team-list
 </div>
 {% endif %}
 
-<div class="container pb-3 pt-1">
-    <div class="row">
-        {% for partner in site.data.partners %}
-        <div class="col-12 col-md-6 mb-3">
-                <img height=50px src="{{ partner.image | relative_url }}">
+{% if site.data.partners %}
+<h2>Project Partners</h2>
+<div class="strip strip-grey">
+    <div class="pt-md-2 pb-md-2 container pb-2 pt-2">
+        <div class="row justify-content-center">
+            {% for partner in site.data.partners %}
+            <div class="col-12 col-md-6 col-lg-4 mb-2">
+                <div class="partner">
+                    {% if partner.image %}
+                    <div class="partner">
+                        <img
+                            alt="{{ partner.title }} logo"
+                            src="{{ partner.image | relative_url }}"
+                        />
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
         </div>
-        {% endfor %}
     </div>
 </div>
+{% endif %}
