@@ -8,11 +8,11 @@ main:
   - name: "Projects"
     url: "/projects/"
     weight: 4
-  - name: "Blog"
-    url: "/blogs/"
-    weight: 5
   - name: "Events"
     url: "/events/"
+    weight: 5
+  - name: "Blog"
+    url: "/blogs/"
     weight: 6
   - name: "Join"
     url: "/join/"
