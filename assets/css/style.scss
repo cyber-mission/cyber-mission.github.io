@@ -17,10 +17,7 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-//$title-font-family: Helvetica, Arial, sans-serif, -apple-system;
-//$title-font-family: 'VT323', serif, -apple-system;
 $title-font-family: 'Silkscreen', serif, -apple-system;
-//$font-family-heading: 'Silkscreen', serif, -apple-system;
 $font-family-heading: 'Playfair Display', serif, -apple-system;
 
 // Footer
@@ -62,7 +59,9 @@ $sub-footer-text-color: $white;
 // Pages
 @import 'pages/home';
 @import 'pages/team/team-summary';
-@import 'pages/services/page-services-single';
+@import 'pages/projects/page-projects-single';
+@import 'pages/events/page-events-single';
+@import 'pages/blogs/page-blogs-single';
 
 body {
   font-size: 16px;
