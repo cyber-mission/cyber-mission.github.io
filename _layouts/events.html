@@ -31,10 +31,10 @@ bodyClass: page-events-list
         {% assign weighted_events = site.events | sort: "weight" %} {% for event
         in weighted_events %}
         <div class="col-12 col-md-6 mb-3">
-            <div class="service service-summary">
-                <div class="service-content">
-                    <h2 class="service-title">
-                        <a href="{{ service.url | relative_url }}"
+            <div class="event event-summary">
+                <div class="event-content">
+                    <h2 class="event-title">
+                        <a href="{{ event.url | relative_url }}"
                             >{{ event.title }}</a
                         >
                     </h2>

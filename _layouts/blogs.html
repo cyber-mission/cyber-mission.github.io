@@ -31,10 +31,10 @@ bodyClass: page-events-list
         {% assign weighted_blogs = site.blogs | sort: "weight" %} {% for blog in
         weighted_blogs %}
         <div class="col-12 col-md-6 mb-3">
-            <div class="service service-summary">
-                <div class="service-content">
-                    <h2 class="service-title">
-                        <a href="{{ service.url | relative_url }}"
+            <div class="blog blog-summary">
+                <div class="blog-content">
+                    <h2 class="blog-title">
+                        <a href="{{ blog.url | relative_url }}"
                             >{{ blog.title }}</a
                         >
                     </h2>

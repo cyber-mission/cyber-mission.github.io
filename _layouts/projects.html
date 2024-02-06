@@ -31,10 +31,10 @@ bodyClass: page-projects-list
         {% assign weighted_projects = site.projects | sort: "weight" %} {% for
         project in weighted_projects %}
         <div class="col-12 col-md-6 mb-3">
-            <div class="service service-summary">
-                <div class="service-content">
-                    <h2 class="service-title">
-                        <a href="{{ service.url | relative_url }}"
+            <div class="project project-summary">
+                <div class="project-content">
+                    <h2 class="project-title">
+                        <a href="{{ project.url | relative_url }}"
                             >{{ project.title }}</a
                         >
                     </h2>
