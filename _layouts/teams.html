@@ -78,8 +78,8 @@ bodyClass: page-team-list
 <div class="container pb-3 pt-1">
     <div class="row">
         {% for partner in site.data.partners %}
-        <div class="col-12 col-md-6 mb-2">
-                <img height=40px src="{{ partner.image | relative_url }}">
+        <div class="col-12 col-md-6 mb-3">
+                <img height=80px src="{{ partner.image | relative_url }}">
         </div>
         {% endfor %}
     </div>
