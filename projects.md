@@ -3,6 +3,6 @@ title: Projects
 layout: projects
 ---
 
-# Projects that grow with your business
+# Projects
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+CYBER encomapses a wide array of different projects tackling various aspects of our mission. Find out more below about the specific research we are doing and how it will support biorestoration efforts.

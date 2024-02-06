@@ -1,12 +1,12 @@
 [
   {
-    "title": "Ecological Wind Tunnels",
-    "description": "Build multi-scale ecological models to support the development and rigorous testing of engineered organisms in artificial ecosystems that more closely mimic the complex spatial- temporal organisation and interactions of the real-world.",
+    "title": "Build Ecological Wind Tunnels",
+    "description": "Create artificial ecosystems that more closely mimic real-world complexity to rigourous test the function and safety of engineered organisms.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "AI + Massively Parallel Assays",
-    "description": "Show how massively parallel reporter assays (MPRAs) and sequencing-based surveillance, combined with rigorous metrology and advanced AI techniques, can enable the rapid development of genetic tools to reprogram diverse and environmentally important microbes such as cyanobacteria and track their dispersal in an ecosystem.",
+    "title": "AI + Massively Parallel Experiments",
+    "description": "Combine big experiments with rigorous metrology and advanced AI to create the genetic tools needed to reprogram diverse and environmentally important microbes.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
