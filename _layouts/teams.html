@@ -15,11 +15,11 @@ bodyClass: page-team-list
 
 <div class="container pb-3 pt-1">
     <div class="row">
-        {% for institution in site.data.institutions %}
         <div class="col-12 col-md-6 mb-3">
-                <img height=80px src="{{ institution.image | relative_url }}">
+            {% for institution in site.data.institutions %}
+                <img height=65px src="{{ institution.image | relative_url }}">
+            {% endfor %}
         </div>
-        {% endfor %}
     </div>
 </div>
 
