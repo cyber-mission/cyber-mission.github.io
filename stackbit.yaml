@@ -2,11 +2,11 @@ stackbitVersion: ~0.3.0
 ssgName: jekyll
 ssgVersion: 4.1
 buildCommand: bundle exec jekyll build
-publishDir: '_site'
-staticDir: 'assets'
-uploadDir: 'images'
-dataDir: '_data'
-pagesDir: ''
+publishDir: "_site"
+staticDir: "assets"
+uploadDir: "images"
+dataDir: "_data"
+pagesDir: ""
 pageLayoutKey: null
 logicFields:
   - site_menu_item.weight
@@ -26,8 +26,8 @@ models:
       - type: string
         name: permalink
         label: Permalink
-        description: 'The output path for your pages, posts, or collections.'
-        default: '/posts/:slug:output_ext'
+        description: "The output path for your pages, posts, or collections."
+        default: "/posts/:slug:output_ext"
         hidden: true
       - type: string
         name: google_analytics_id
@@ -163,7 +163,7 @@ models:
     type: object
     label: Site Menu Item
     labelField: name
-    description: 'Site menu item model, defines fields for a single site menu item'
+    description: "Site menu item model, defines fields for a single site menu item"
     fields:
       - type: string
         name: identifier
@@ -222,7 +222,7 @@ models:
   basicpage:
     type: page
     label: Basic Page
-    match: '*.md'
+    match: "*.md"
     exclude: index.md
     fields:
       - type: string
@@ -249,10 +249,10 @@ models:
             value: footer
       - type: string
         name: bodyClass
-  service:
+  project:
     type: page
-    label: Service
-    folder: _services
+    label: Project
+    folder: _projects
     fields:
       - type: string
         name: title
@@ -267,12 +267,12 @@ models:
       - type: enum
         name: layout
         options:
-          - label: service
-            value: service
-  services:
+          - label: project
+            value: project
+  projects:
     type: page
-    label: Services Overview
-    file: services.md
+    label: Projects Overview
+    file: projects.md
     singleInstance: true
     fields:
       - type: string
@@ -295,8 +295,164 @@ models:
       - type: enum
         name: layout
         options:
-          - label: services
-            value: services
+          - label: projects
+            value: projects
+            project:
+              type: page
+              label: Project
+              folder: _projects
+              fields:
+                - type: string
+                  name: title
+                - type: date
+                  name: date
+                - type: boolean
+                  name: draft
+                - type: boolean
+                  name: featured
+                - type: number
+                  name: weight
+                - type: enum
+                  name: layout
+                  options:
+                    - label: project
+                      value: project
+  event:
+    type: page
+    label: Event
+    folder: _events
+    fields:
+      - type: string
+        name: title
+      - type: date
+        name: date
+      - type: boolean
+        name: draft
+      - type: boolean
+        name: featured
+      - type: number
+        name: weight
+      - type: enum
+        name: layout
+        options:
+          - label: event
+            value: event
+  events:
+    type: page
+    label: Events Overview
+    file: events.md
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: image
+        name: intro_image
+        label: Intro Image
+        description: Image displayed at in the pages intro section
+      - type: boolean
+        name: intro_image_absolute
+        label: Intro Image Position
+        description: Should the image overflow or be contained
+      - type: boolean
+        name: intro_image_hide_on_mobile
+        label: Intro Image Hide On Mobile
+        description: Hide the intro image on mobile screen sizes
+      - type: enum
+        name: layout
+        options:
+          - label: events
+            value: events
+            project:
+              type: page
+              label: Event
+              folder: _events
+              fields:
+                - type: string
+                  name: title
+                - type: date
+                  name: date
+                - type: boolean
+                  name: draft
+                - type: boolean
+                  name: featured
+                - type: number
+                  name: weight
+                - type: enum
+                  name: layout
+                  options:
+                    - label: event
+                      value: event
+  blog:
+    type: page
+    label: Blog
+    folder: _blogs
+    fields:
+      - type: string
+        name: title
+      - type: date
+        name: date
+      - type: boolean
+        name: draft
+      - type: boolean
+        name: featured
+      - type: number
+        name: weight
+      - type: enum
+        name: layout
+        options:
+          - label: blog
+            value: blog
+  events:
+    type: page
+    label: Blogs Overview
+    file: blogs.md
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: image
+        name: intro_image
+        label: Intro Image
+        description: Image displayed at in the pages intro section
+      - type: boolean
+        name: intro_image_absolute
+        label: Intro Image Position
+        description: Should the image overflow or be contained
+      - type: boolean
+        name: intro_image_hide_on_mobile
+        label: Intro Image Hide On Mobile
+        description: Hide the intro image on mobile screen sizes
+      - type: enum
+        name: layout
+        options:
+          - label: blogs
+            value: blogs
+            project:
+              type: page
+              label: Blog
+              folder: _blogs
+              fields:
+                - type: string
+                  name: title
+                - type: date
+                  name: date
+                - type: boolean
+                  name: draft
+                - type: boolean
+                  name: featured
+                - type: number
+                  name: weight
+                - type: enum
+                  name: layout
+                  options:
+                    - label: blog
+                      value: blog
   team:
     type: page
     label: Team
