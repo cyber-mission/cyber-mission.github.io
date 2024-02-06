@@ -14,7 +14,7 @@ main:
   - name: "Events"
     url: "/events/"
     weight: 6
-  - name: "Join Us"
+  - name: "Join"
     url: "/join/"
     weight: 7
   - name: "Contact"
