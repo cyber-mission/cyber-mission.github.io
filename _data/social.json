@@ -3,5 +3,10 @@
     "name": "Github",
     "link": "https://github.com/cyber-mission",
     "image": "images/social/github.svg"
-  }
+  },
+  {
+    "name": "Email",
+    "link": "mailto:thomas.gorochowski@bristol.ac.uk",
+    "image": "images/social/email.svg"
+  },
 ]
