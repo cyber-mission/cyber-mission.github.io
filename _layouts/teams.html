@@ -15,9 +15,9 @@ bodyClass: page-team-list
 
 <div class="container pb-3 pt-1">
     <div class="row">
-        <div class="col-12 col-md-6 mb-3">
+        <div class="col-12 col-md-6 mb-3" style="width: 100%">
             {% for institution in site.data.institutions %}
-                <img height=65px src="{{ institution.image | relative_url }}">
+                <img height=65px src="{{ institution.image | relative_url }}"/>
             {% endfor %}
         </div>
     </div>
