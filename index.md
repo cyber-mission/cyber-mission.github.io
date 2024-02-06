@@ -3,7 +3,7 @@ title: CYBER Mission
 layout: home
 description: CYBER Mission
 intro_image_absolute: true
-intro_image: "/illustrations/cyber-header.jpg"
+intro_image: "images/illustrations/cyber-header.jpg"
 intro_image_hide_on_mobile: false
 ---
 
