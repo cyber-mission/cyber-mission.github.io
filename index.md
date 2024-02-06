@@ -6,10 +6,4 @@ description: CYBER Mission
 
 # Our Mission
 
-This site is still under construction!
-
-```
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
-```
+To develop the foundational multidisciplinary tools needed to de-risk environmentally focused engineering biology and ultimately support its future deployment into real-world ecosystems.
