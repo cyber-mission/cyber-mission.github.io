@@ -26,6 +26,8 @@ seo:
   meta_twitter_creator: "@chofski"
 
 collections:
+  blog:
+    output: true
   events:
     output: true
   services:

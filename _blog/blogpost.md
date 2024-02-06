@@ -1,9 +1,9 @@
 ---
-title: "AI, Engineering Biology and Beyond 2024"
+title: "Blog post"
 date: 2023-11-18T12:33:46+10:00
 featured: true
 weight: 1
-layout: event
+layout: blog
 ---
 
 Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.

@@ -28,18 +28,18 @@ bodyClass: page-events-list
 
 <div class="container pb-6 pt-6">
     <div class="row">
-        {% assign weighted_events = site.events | sort: "weight" %} {% for event
-        in weighted_events %}
+        {% assign weighted_blogs = site.blogs | sort: "weight" %} {% for blog in
+        weighted_blogs %}
         <div class="col-12 col-md-6 mb-3">
             <div class="service service-summary">
                 <div class="service-content">
                     <h2 class="service-title">
                         <a href="{{ service.url | relative_url }}"
-                            >{{ event.title }}</a
+                            >{{ blog.title }}</a
                         >
                     </h2>
                     <p>
-                        {{ event.content | markdownify | strip_html | truncate:
+                        {{ blog.content | markdownify | strip_html | truncate:
                         100 }}
                     </p>
                 </div>
