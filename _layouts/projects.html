@@ -25,8 +25,8 @@ bodyClass: page-projects-list
                             >{{ project.title }}</a
                         >
                     </h2>
-                    {% assign project_team = site.team | where: "title" in project.team %}
-                    {% for person in project_team %}
+                    {{ for person_key in project.team }}
+                    {% assign person = site.team | where:"title", person_key | first %}
                         {{ person.title }}
                         <img
                             alt="{{ person.title }}"
