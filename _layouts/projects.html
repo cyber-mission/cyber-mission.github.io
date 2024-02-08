@@ -26,14 +26,14 @@ bodyClass: page-projects-list
                         >
                     </h2>
                     {{ if project.team}}
-                        {{ for person_key in project.team }}
-                        {% assign person = site.team | where:"title", person_key | first %}
-                            Here: {{ person_key }}
+                        {{ for person in site.team }}
+                        {{ if project.team contains person.title }}
                             <img
                                 alt="{{ person.title }}"
-                                class="small-round-image img-fluid mb-2"
+                                class="small-round-image img-fluid mb-1"
                                 src="{{ person.image | relative_url }}"
                             />
+                        {{ endif }}
                         {{ endfor }}
                     {{ endif }}
                     <p>
