@@ -1,5 +1,5 @@
 ---
-title: "Bio-Based Removal of Pollutants from Aquatic Environments"
+title: "Bio-Based Removal of Pollutants"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
