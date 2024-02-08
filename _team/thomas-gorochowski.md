@@ -3,8 +3,9 @@ title: "Thomas Gorochowski"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/thomas-gorochowski.jpg"
+image_hires: "images/team/thomas-gorochowski-hires.jpg"
 jobtitle: "Principal Investigator"
-organisation: "University of Bristol, UK" 
+organisation: "University of Bristol, UK"
 website: "https://biocomputelab.github.io"
 investigator: true
 weight: 1

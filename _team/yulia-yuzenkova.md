@@ -3,6 +3,7 @@ title: "Yulia Yuzenkova"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/yulia-yuzenkova.jpg"
+image_hires: "images/team/yulia-yuzenkova-hires.jpg"
 jobtitle: "Co-Investigator"
 organisation: "Newcastle University, UK"
 website: ""
