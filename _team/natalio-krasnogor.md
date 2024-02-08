@@ -5,7 +5,7 @@ draft: false
 image: "images/team/natalio-krasnogor.jpg"
 jobtitle: "Co-Investigator"
 organisation: "Newcastle University, UK"
-website: ""
+website: "http://ico2s.org/"
 investigator: true
 weight: 3
 layout: team
