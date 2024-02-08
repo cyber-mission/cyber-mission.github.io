@@ -25,19 +25,19 @@ bodyClass: page-projects-list
                             >{{ project.title }}</a
                         >
                     </h2>
-                    {{ if project.team}}
-                        {{ for person in site.team }}
+                    {% if project.team %}
+                        {% for person in site.team %}
                         {{ person.title }}
-                        {{ if project.team contains person.title }}
+                        {% if project.team contains person.title %}
                             Here {{ person.title }}
                             <img
                                 alt="{{ person.title }}"
                                 class="small-round-image img-fluid mb-1"
                                 src="{{ person.image | relative_url }}"
                             />
-                        {{ endif }}
-                        {{ endfor }}
-                    {{ endif }}
+                        {% endif %}
+                        {% endfor %}
+                    {% endif %}
                     <p>
                         {{ project.content | markdownify | strip_html |
                         truncate: 100 }}
