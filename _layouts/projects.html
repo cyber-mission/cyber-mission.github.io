@@ -25,6 +25,14 @@ bodyClass: page-projects-list
                             >{{ project.title }}</a
                         >
                     </h2>
+                    {{ for person_key in project.team }}
+                        {% assign person = site.team | where:"title", person_key  | first %}
+                        <img
+                            alt="{{ person.title }}"
+                            class="img-fluid mb-2"
+                            src="{{ person.image | relative_url }}"
+                        />
+                    {{ endfor }}
                     <p>
                         {{ project.content | markdownify | strip_html |
                         truncate: 100 }}

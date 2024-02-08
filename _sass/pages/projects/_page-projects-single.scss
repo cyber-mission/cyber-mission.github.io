@@ -1,4 +1,14 @@
 .page-projects-single {
+  .team-image {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+    border-radius: 50%;
+    overflow: hidden;
+    img {
+      width: 30px;
+    }
+  }
   .content {
     > p {
       &:first-of-type {
