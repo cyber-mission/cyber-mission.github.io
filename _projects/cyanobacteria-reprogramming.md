@@ -5,7 +5,7 @@ featured: true
 weight: 1
 layout: project
 team:
-  - "Thomas Gorochowski"
+  - Thomas Gorochowski
   - "Diego Oyarzún"
 ---
 
