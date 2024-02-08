@@ -6,7 +6,8 @@ weight: 1
 layout: project
 team:
   - Thomas Gorochowski
-  - "Diego Oyarzún"
+  - Yulia Yuzenkova
+  - Diego Oyarzún
 ---
 
 TODO
