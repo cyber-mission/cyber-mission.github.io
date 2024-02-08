@@ -27,9 +27,7 @@ bodyClass: page-projects-list
                     </h2>
                     {% if project.team %}
                         {% for person in site.team %}
-                        {{ person.title }}
                         {% if project.team contains person.title %}
-                            Here {{ person.title }}
                             <img
                                 alt="{{ person.title }}"
                                 class="small-round-image img-fluid mb-1"
