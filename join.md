@@ -4,9 +4,15 @@ layout: page
 bodyClass: page-join
 ---
 
+![CYBER Institutions]({{ site.baseurl }}/images/join/join-header.jpg)
+
 Cyanobacteria Engineering for Restoring Environments (**CYBER**) is a new UKRI-funded Engineering Biology Mission Award that aims to: develop the foundational multidisciplinary tools needed to **de-risk environmentally focused engineering biology and ultimately support its future deployment into real-world ecosystems**. We want to find ways to make a real positive impact on the environment by combing our growing capabilities in engineering biology and AI with our understanding of ecology and natural environments. The project spans the Universities of Bristol, Newcastle and Edinburgh, with the National Measurement Laboratory (NML), Cultivarium, Basecamp Research, Gitlife Biotech, Bactobio and NIST acting as key partners to deliver this vision.
 
-If the goal of CYBER resonates with you, then why not apply to join our team! Postdoctoral positions (PDRAs) are available across all aspects of the project and successful applicants will become part of a **passionate and highly multidisciplinary team**; they will **work collaboratively** with renowned engineering biology, AI and ecology researchers; and have the **opportunity to take on leadership roles** within the project, shaping how engineering biology can positively impact our environment. Below are the current vacanies available with links to specifics about the roles and how to apply.
+If the goal of CYBER resonates with you, then why not apply to join our team! Postdoctoral positions (PDRAs) are available across all aspects of the project and successful applicants will become part of a **passionate and highly multidisciplinary team**; they will **work collaboratively** with renowned engineering biology, AI and ecology researchers; and have the **opportunity to take on leadership roles** within the project, shaping how engineering biology can positively impact our environment.
+
+In addition to the research projects that the PDRAs will be leading, we have also designed a broader CYBER-wide programme of training and opportunities. This includes a 'PDRA Rotation Programme', which will allow all 5 PDRAs to come together in person for a week at each institution to strengthen links between projects and allow for peer-learning across the diverse elements of the research. In addition, the PDRAs will have the chance to lead outreach and engagement events and activities after the annual CYBER meetings to connect with local communities and people.
+
+Below the current vacanies are given with links to specifics about the roles and information about how to apply. Links will be updated as online applications go live. Feel free to contact the investigator supporting the PDRA if you would like to discuss elements of the project more.
 
 ## PDRA 1: Ecological windtunnels
 
