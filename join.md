@@ -16,11 +16,11 @@ Below the current vacanies are given with links to specifics about the roles and
 
 ## PDRA 1: Ecological windtunnels
 
-Working with [Christopher Clements](https://cyber-mission.github.io/team/chris-clements/) at the [University of Bristol](https://www.bristol.ac.uk/biology/), lead the development of ecological wind tunnels that better mimic real-world complexity to assess the safety of our engineered organisms and the ecological interactions affect their performance. [Learn more and apply...]()
+Working with [Christopher Clements](https://cyber-mission.github.io/team/chris-clements/) at the [University of Bristol](https://www.bristol.ac.uk/biology/), lead the development of ecological wind tunnels that better mimic real-world complexity to assess the safety of our engineered organisms and the ecological interactions affecting their performance. [Learn more and apply...]()
 
 ## PDRA 2: Genetic tools for cyanobacteria
 
-Working with [Thomas Gorochowski](https://cyber-mission.github.io/team/thomas-gorochowski/) at the [University of Bristol](https://www.bristol.ac.uk/biology/), help to develop a new generation of genetic tools, parts and devices for cyanobacteria using advanced high-throughput assays that blend large-scale genetic assembly, cell-sorting, and nanopore sequencing. [Learn more and apply...]()
+Working with [Thomas Gorochowski](https://cyber-mission.github.io/team/thomas-gorochowski/) at the [University of Bristol](https://www.bristol.ac.uk/biology/), help to develop a new generation of genetic tools, parts and devices for cyanobacteria using advanced high-throughput assays that blend large-scale genetic assembly, cell-sorting, and nanopore sequencing. [Learn more and apply...](https://www.bristol.ac.uk/jobs/find/details/?nPostingId=168921&nPostingTargetId=345097&id=Q50FK026203F3VBQBV7V77V83&LG=UK&languageSelect=UK&mask=newuobext)
 
 ## PDRA 3: Data-driven genetic design
 
