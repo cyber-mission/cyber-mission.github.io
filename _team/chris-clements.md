@@ -7,6 +7,7 @@ image_hires: "images/team/chris-clements-hires.jpg"
 jobtitle: "Co-Investigator"
 organisation: "University of Bristol, UK"
 website: "https://www.experimentalconservation.com"
+email: "c.clements@bristol.ac.uk"
 investigator: true
 weight: 2
 layout: team

@@ -6,6 +6,7 @@ image: "images/team/carole-foy.jpg"
 jobtitle: "Project Partner"
 organisation: "National Measurements Lab, UK"
 website: ""
+email: "Carole.Foy@lgcgroup.com"
 investigator: true
 weight: 6
 layout: team

@@ -7,6 +7,7 @@ image_hires: "images/team/natalio-krasnogor-hires.jpg"
 jobtitle: "Co-Investigator"
 organisation: "Newcastle University, UK"
 website: "http://ico2s.org/"
+email: "natalio.krasnogor@newcastle.ac.uk"
 investigator: true
 weight: 3
 layout: team

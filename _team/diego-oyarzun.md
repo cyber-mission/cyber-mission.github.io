@@ -7,6 +7,7 @@ image_hires: "images/team/diego-oyarzun-hires.jpg"
 jobtitle: "Co-Investigator"
 organisation: "University of Edinburgh, UK"
 website: "https://homepages.inf.ed.ac.uk/doyarzun/"
+email: "d.oyarzun@ed.ac.uk"
 investigator: true
 weight: 4
 layout: team

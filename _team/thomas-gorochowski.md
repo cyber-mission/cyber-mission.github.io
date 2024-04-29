@@ -7,6 +7,7 @@ image_hires: "images/team/thomas-gorochowski-hires.jpg"
 jobtitle: "Principal Investigator"
 organisation: "University of Bristol, UK"
 website: "https://biocomputelab.github.io"
+email: "thomas.gorochowski@bristol.ac.uk"
 investigator: true
 weight: 1
 layout: team
