@@ -1,6 +1,6 @@
 [
   {
-    "type": "publication"
+    "type": "publication",
     "title": "Example publication",
     "description": "Description of the publications",
     "weight": 1
