@@ -4,13 +4,19 @@ layout: default
 bodyClass: page-impact
 ---
 
+<div class="pt-md-6 pb-md-3 container pb-2 pt-4">
+    <div class="row justify-content-start">
+        <h1>Impact</h1>
+    </div>
+</div>
+
 {% if site.data.impact %}
 <div class="pt-md-6 pb-md-3 container pb-2 pt-4">
     <div class="row justify-content-start">
-        <h1>Publications</h1>
+        <h2>Publications</h2>
         {% for publication in site.data.impact %}
         {% if publication.type == "publication" %}
-            <div class="content">{{publication.title}}</div>
+            <div class="content"><p>{{publication.title}}</p></div>
         {% endif %}
         {% endfor %}
     </div>
@@ -21,10 +27,10 @@ bodyClass: page-impact
 <div class="strip strip-grey">
     <div class="pt-md-6 pb-md-3 container pb-2 pt-4">
         <div class="row justify-content-start">
-            <h1>Outreach and Public Engagement</h1>
+            <h2>Outreach and Public Engagement</h2>
             {% for outreach in site.data.impact %}
             {% if outreach.type == "outreach" %}
-                <div class="content">{{outreach.title}}</div>
+                <div class="content"><p>{{outreach.title}}</p></div>
             {% endif %}
             {% endfor %}
         </div>
@@ -35,10 +41,10 @@ bodyClass: page-impact
 {% if site.data.impact %}
 <div class="pt-md-6 pb-md-3 container pb-2 pt-4">
     <div class="row justify-content-start">
-        <h1>Funding</h1>
+        <h2>Funding</h2>
         {% for grant in site.data.impact %}
         {% if grant.type == "grant" %}
-            <div class="content">{{grant.title}}</div>
+            <div class="content"><p>{{grant.title}}</p></div>
         {% endif %}
         {% endfor %}
     </div>
