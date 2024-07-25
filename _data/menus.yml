@@ -14,9 +14,12 @@ main:
   - name: "Blog"
     url: "/blogs/"
     weight: 6
+  - name: "Impact"
+    url: "/impact/"
+    weight: 7
   - name: "Join"
     url: "/join/"
-    weight: 7
+    weight: 8
   - name: "Contact"
     url: "/contact/"
-    weight: 8
+    weight: 9
