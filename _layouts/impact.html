@@ -35,10 +35,10 @@ bodyClass: page-impact
     <div class="pt-md-6 pb-md-3 container pb-2 pt-4">
         <div class="row justify-content-start">
             <div class="col-12 col-md-8">
-                <h2>Outreach and Public Engagement</h2>
-                {% for outreach in site.data.impact %}
-                {% if outreach.type == "outreach" %}
-                    <div class="content"><p>{{outreach.title}}</p></div>
+                <h2>Talks and Meetings</h2>
+                {% for talk in site.data.impact %}
+                {% if talk.type == "talk" %}
+                    <div class="content"><p>{{talk.title}}</p></div>
                 {% endif %}
                 {% endfor %}
             </div>
@@ -57,6 +57,23 @@ bodyClass: page-impact
                 <div class="content"><p>{{grant.title}}</p></div>
             {% endif %}
             {% endfor %}
+        </div>
+    </div>
+</div>
+{% endif %}
+
+{% if site.data.impact %}
+<div class="strip strip-grey">
+    <div class="pt-md-6 pb-md-3 container pb-2 pt-4">
+        <div class="row justify-content-start">
+            <div class="col-12 col-md-8">
+                <h2>Outreach and Public Engagement</h2>
+                {% for outreach in site.data.impact %}
+                {% if outreach.type == "outreach" %}
+                    <div class="content"><p>{{outreach.title}}</p></div>
+                {% endif %}
+                {% endfor %}
+            </div>
         </div>
     </div>
 </div>
