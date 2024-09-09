@@ -25,6 +25,7 @@ bodyClass: page-events-list
                             >{{ event.title }}</a
                         >
                     </h2>
+                    <p class="event-subheading">{{ event.subheading }}</p>
                     <p>
                         {{ event.content | markdownify | strip_html | truncate:
                         100 }}
