@@ -9,7 +9,7 @@ organisation: "Newcastle University, UK"
 website: "http://ico2s.org/"
 email: "natalio.krasnogor@newcastle.ac.uk"
 investigator: true
-weight: 3
+weight: 4
 layout: team
 ---
 

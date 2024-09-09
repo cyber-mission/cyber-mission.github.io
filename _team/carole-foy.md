@@ -8,7 +8,7 @@ organisation: "National Measurements Lab, UK"
 website: ""
 email: "Carole.Foy@lgcgroup.com"
 investigator: true
-weight: 6
+weight: 2
 layout: team
 ---
 

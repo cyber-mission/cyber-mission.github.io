@@ -9,7 +9,7 @@ organisation: "University of Edinburgh, UK"
 website: "https://homepages.inf.ed.ac.uk/doyarzun/"
 email: "d.oyarzun@ed.ac.uk"
 investigator: true
-weight: 4
+weight: 6
 layout: team
 ---
 

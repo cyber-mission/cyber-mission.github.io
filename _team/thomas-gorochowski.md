@@ -9,7 +9,7 @@ organisation: "University of Bristol, UK"
 website: "https://biocomputelab.github.io"
 email: "thomas.gorochowski@bristol.ac.uk"
 investigator: true
-weight: 1
+weight: 3
 layout: team
 ---
 

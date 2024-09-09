@@ -1,5 +1,5 @@
 ---
-title: "AI, Engineering Biology and Beyond - Part II"
+title: "AI, Engineering Biology and Beyond 2025"
 date: 2025-01-30
 subheading: "30–31 January 2025, Bristol"
 featured: true

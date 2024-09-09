@@ -9,7 +9,7 @@ organisation: "University of Bristol, UK"
 website: "https://www.experimentalconservation.com"
 email: "c.clements@bristol.ac.uk"
 investigator: true
-weight: 2
+weight: 1
 layout: team
 ---
 

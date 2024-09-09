@@ -9,7 +9,7 @@ organisation: "Newcastle University, UK"
 website: "https://www.ncl.ac.uk/medical-sciences/people/profile/yuliayuzenkova.html"
 email: "yulia.yuzenkova@newcastle.ac.uk"
 investigator: true
-weight: 5
+weight: 7
 layout: team
 ---
 
