@@ -1,11 +1,4 @@
 .page-events-single {
-  .event-subheading {
-      color: $black;
-      text-transform: uppercase;
-      margin: 0;
-      font-size: 12px;
-      font-weight: 500;
-  }
   .content {
     > p {
       &:first-of-type {
@@ -17,4 +10,11 @@
       }
     }
   }
+}
+.event-subheading {
+  color: $black;
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 12px;
+  font-weight: 500;
 }
