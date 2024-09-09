@@ -47,7 +47,7 @@ bodyClass: page-team-list
         {% endfor %}
     </div>
     <div class="row pb-1 pt-1">
-        {% assign teams = site.team | where: "investigator", empty | sort:
+        {% assign teams = site.team | where: "investigator", false | sort:
         "weight" %} {% for team in teams %}
         <div class="col-12 col-md-4 mb-3">
             <div class="team team-summary">
