@@ -8,6 +8,7 @@ team:
   - Thomas Gorochowski
   - Yulia Yuzenkova
   - Diego Oyarzún
+  - Shylaja Mohandass
 ---
 
 TODO

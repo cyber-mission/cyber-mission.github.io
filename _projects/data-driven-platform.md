@@ -7,6 +7,7 @@ layout: project
 team:
   - Diego Oyarzún
   - Thomas Gorochowski
+  - Shylaja Mohandass
 ---
 
 TODO
