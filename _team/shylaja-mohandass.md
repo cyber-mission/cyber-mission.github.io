@@ -6,7 +6,6 @@ image: "images/team/shylaja-mohandass.jpg"
 image_hires: "images/team/shylaja-mohandass-hires.jpg"
 jobtitle: "Postdoctoral Researcher"
 organisation: "University of Bristol, UK"
-website: none
 email: "tj24664@bristol.ac.uk"
 investigator: false
 weight: 5
