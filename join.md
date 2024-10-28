@@ -6,6 +6,8 @@ bodyClass: page-join
 
 ![CYBER Institutions]({{ site.baseurl }}/images/join/join-header.jpg)
 
+**Update: All PDRA posts on the CYBER project are now filled. However, if you are interested in collaborating with the team, setting up an aligned fellowship application, or being involved in future funding applications to continue and expand this project, [let us know](mailto:thomas.gorochowski@bristol.ac.uk).**
+
 Cyanobacteria Engineering for Restoring Environments (**CYBER**) is a new UKRI-funded Engineering Biology Mission Award that aims to: develop the foundational multidisciplinary tools needed to **de-risk environmentally focused engineering biology and ultimately support its future deployment into real-world ecosystems**. We want to find ways to make a real positive impact on the environment by combing our growing capabilities in engineering biology and AI with our understanding of ecology and natural environments. The project spans the Universities of Bristol, Newcastle and Edinburgh, with the National Measurement Laboratory (NML), Cultivarium, Basecamp Research, Gitlife Biotech, Bactobio and NIST acting as key partners to deliver this vision.
 
 If the goal of CYBER resonates with you, then why not apply to join our team! Postdoctoral positions (PDRAs) are available across all aspects of the project and successful applicants will become part of a **passionate and highly multidisciplinary team**; they will **work collaboratively** with renowned engineering biology, AI and ecology researchers; and have the **opportunity to take on leadership roles** within the project, shaping how engineering biology can positively impact our environment.
