@@ -14,7 +14,7 @@ logo:
   desktop_height: "24px"
 
 footer:
-  copyright_text: "CYBER Mission Award (supported by <a href=\"https://www.ukri.org/news/new-100m-fund-will-unlock-the-potential-of-engineering-biology/\">UKRI Technology Missions Fund</a> and the <a href=\"bbsrc.ukri.org\">BBSRC</a>)"
+  copyright_text: "CYBER Mission Award (supported by <a href=\"https://www.ukri.org/news/new-100m-fund-will-unlock-the-potential-of-engineering-biology/\">UKRI Technology Missions Fund</a> and the <a href=\"https://www.ukri.org/councils/bbsrc/\">BBSRC</a>)"
 
 seo:
   meta_og_title: "CYBER"
