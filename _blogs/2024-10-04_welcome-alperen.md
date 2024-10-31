@@ -5,6 +5,9 @@ featured: true
 weight: 2
 layout: blog
 ---
+
+![Transfer Learning for Engineering Biology](/images/blogs/2024-10-04_welcome-alperen/2024-10-04_welcome-alperen.jpg){:class="img-responsive"}
+
 ## Tell us a bit about yourself...
 
 I’m a computer scientist who loves using machine learning and AI to solve complex biological problems. My journey began with a master’s in computer engineering, where I discovered my passion for computational biology by working on enzyme function prediction. During my PhD, I focused on developing AI-driven methods for predicting drug-target interactions and molecular properties. I’ve always enjoyed collaborating in interdisciplinary teams and presenting my research at international conferences, and I’m excited to apply my skills to solving real-world challenges.
