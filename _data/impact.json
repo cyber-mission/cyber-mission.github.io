@@ -8,6 +8,17 @@
     "number": 242110,
     "year": 2025,
     "doi": "10.1098/rsos.242110",
-    "description": "Microscopic organisms play a key role in the function of diverse ecologies spanning agricultural soils to your own gut. However, characterising the precise species present is hugely challenging. In this work, we demonstrate how elements of a bacterial immune system called CRISPR/Cas9 can be repurposed to enable targeted sequencing of environmental DNA samples to accurate classify the species present. Our methodology support more efficient, quantitative and complete monitoring of community composition and provides biologists with a tool to better understand the true diversity of life in complex environments. "
+    "description": "Microscopic organisms play a key role in the function of diverse ecologies spanning agricultural soils to your own gut. However, characterising the precise species present is hugely challenging. In this work, we demonstrate how elements of a bacterial immune system called CRISPR/Cas9 can be repurposed to enable targeted sequencing of environmental DNA samples to accurate classify the species present. Our methodology support more efficient, quantitative and complete monitoring of community composition and provides biologists with a tool to better understand the true diversity of life in complex environments."
+  },
+  {
+    "type": "publication",
+    "title": "Engineering Biology Applications for Environmental Solutions: Potential and Challenges",
+    "authors": "Lea-Smith D.J., Hassard F., Coulon F., Partridge N., Horsfall L., Parker K.D.J., Smith R.D.J., McCarthy R.R., McKew B., Gutierrez T., Kumar V., Dotro G., Yang Z., EBIC partners & Krasnogor N.",
+    "journal": "Nature Communications",
+    "volume": 16,
+    "number": 3538,
+    "year": 2025,
+    "doi": "10.1038/s41467-025-58492-0",
+    "description": "Engineering biology applies synthetic biology to address global environmental challenges like bioremediation, biosequestration, pollutant monitoring, and resource recovery. This perspective outlines innovations in engineering biology, its integration with other technologies (e.g., nanotechnology, IoT, AI), and commercial ventures leveraging these advancements. We also discuss commercialisation and scaling challenges, biosafety and biosecurity considerations including biocontainment strategies, social and political dimensions, and governance issues that must be addressed for successful real-world implementation. Finally, we highlight future perspectives and propose strategies to overcome existing hurdles, aiming to accelerate the adoption of engineering biology for environmental solutions."
   }
 ]
