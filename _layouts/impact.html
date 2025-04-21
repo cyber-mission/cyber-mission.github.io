@@ -21,7 +21,12 @@ bodyClass: page-impact
             {% for publication in site.data.impact %}
             {% if publication.type == "publication" %}
                 <div class="content">
-                    <p>{{publication.title}}</p>
+                    <p>
+                        <a href="https://doi.org/{{publication.doi}}"></a>{{publication.title}}<br>
+                        {{publication.authors}}<br>
+                        <i>{{publication.journal}}</i> <b>{{publication.volume}}</b>, {{publication.number}}, {{publication.year}}<br>
+                        {{publication.description}}
+                    </p>
                 </div>
             {% endif %}
             {% endfor %}
