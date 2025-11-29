@@ -8,7 +8,7 @@
     "number": "",
     "year": 2025,
     "doi": "10.1101/2025.10.06.680659",
-    "description": "Light can affect the movement of microorganisms. These responses can drive collective behaviours like photoaccumulation and photodispersion, which play a key role in broader biological functions like photosynthesis. Our understanding of these emergent phenomena is severely limited by difficulties in obtaining data needed to establish accurate models that can serve as a basis for multi-scale analyses. Here, we address this issue by developing an integrated experimental and computational platform to collect large temporal imaging datasets that allow for the inference of ‘digital twins’ — mathematically precise computational models that accurately mirror the behavior of individual microorganisms — and show that they can replicate the light response of diverse microorganisms in silico. We show that a generalised phenomenological model of movement can be effectively parameterised from experimental data to capture key behavioural traits of two commonly studied photo-responsive microorganisms (Euglena gracilis and Volvox aureus) and demonstrate our model’s ability to accurate reproduce patterns of movement for individuals and populations in response to dynamic and spatially varying light patterns. This work takes steps towards the automated phenotyping of multi-scale behaviours in biology and complements high-throughput genome sequencing efforts by allowing for more comprehensive and quantitative genotype-to-phenotype mappings. It also unlocks new opportunities for the design of spatial control algorithms to guide collective microorganism behaviour."
+    "description": "R6K plasmids are commonly used for a wide range of genome engineering applications due to their ability to support transient delivery of genetic cargoes in many hosts. The maintenance of R6K plasmids requires specific strains. Unfortunately, many of these have obscure backgrounds, limited availability and were not built for efficient cloning. To address this issue, we present the construction and characterisation of a series of Pir E. coli strains called SHARK that are built from the DH10B derivative, Marionette-Clo. All SHARK strains have a genome encoded Pir gene for stable R6K plasmid maintenance and a λCI gene for tight unconditional repression of specific genes on plasmids. We show that SHARK strains are >100-fold more efficient than a commercial Pir strain for large and complex cloning reactions. SHARK is intended to help facilitate the cloning of large and complex R6K plasmids for challenging genome engineering projects, with all strains and genetic tools for their assembly being made publicly available."
   },
   {
     "type": "publication",
@@ -19,12 +19,12 @@
     "number": "",
     "year": 2025,
     "doi": "10.1101/2025.02.21.639423",
-    "description": "R6K plasmids are commonly used for a wide range of genome engineering applications due to their ability to support transient delivery of genetic cargoes in many hosts. The maintenance of R6K plasmids requires specific strains. Unfortunately, many of these have obscure backgrounds, limited availability and were not built for efficient cloning. To address this issue, we present the construction and characterisation of a series of Pir E. coli strains called SHARK that are built from the DH10B derivative, Marionette-Clo. All SHARK strains have a genome encoded Pir gene for stable R6K plasmid maintenance and a λCI gene for tight unconditional repression of specific genes on plasmids. We show that SHARK strains are >100-fold more efficient than a commercial Pir strain for large and complex cloning reactions. SHARK is intended to help facilitate the cloning of large and complex R6K plasmids for challenging genome engineering projects, with all strains and genetic tools for their assembly being made publicly available."
+    "description": "Light can affect the movement of microorganisms. These responses can drive collective behaviours like photoaccumulation and photodispersion, which play a key role in broader biological functions like photosynthesis. Our understanding of these emergent phenomena is severely limited by difficulties in obtaining data needed to establish accurate models that can serve as a basis for multi-scale analyses. Here, we address this issue by developing an integrated experimental and computational platform to collect large temporal imaging datasets that allow for the inference of ‘digital twins’ — mathematically precise computational models that accurately mirror the behavior of individual microorganisms — and show that they can replicate the light response of diverse microorganisms in silico. We show that a generalised phenomenological model of movement can be effectively parameterised from experimental data to capture key behavioural traits of two commonly studied photo-responsive microorganisms (Euglena gracilis and Volvox aureus) and demonstrate our model’s ability to accurate reproduce patterns of movement for individuals and populations in response to dynamic and spatially varying light patterns. This work takes steps towards the automated phenotyping of multi-scale behaviours in biology and complements high-throughput genome sequencing efforts by allowing for more comprehensive and quantitative genotype-to-phenotype mappings. It also unlocks new opportunities for the design of spatial control algorithms to guide collective microorganism behaviour."
   },
   {
     "type": "publication",
     "title": "Characterization of recombinase-based genetic parts and circuits using nanopore sequencing",
-    "authors": "Greco F.V., Cameron S.K., Joshi S.H.-N., Brophy J.A.N., Grierson C.S. & Gorochowski T.E.",
+    "authors": "Greco F.V., Cameron S.K., Joshi S.H.-N., Brophy J.A.N., Grierson C.S. & <b>Gorochowski T.E.</b>",
     "journal": "bioRxiv",
     "volume": "",
     "number": "",
@@ -35,10 +35,10 @@
   {
     "type": "publication",
     "title": "The Japan-UK Synthetic Biology Conference, Spring 2025: strengthening global links to engineer biology",
-    "authors": "Gorochowski T.E., Brockhurst M.A., Ceroni F., Iwasaki Y.W. & Yachie N.",
+    "authors": "<b>Gorochowski T.E.</b>, Brockhurst M.A., Ceroni F., Iwasaki Y.W. & Yachie N.",
     "journal": "ACS Synthetic Biology",
-    "volume": "",
-    "number": "",
+    "volume": "14",
+    "number": "1873-1878",
     "year": 2025,
     "doi": "10.1021/acssynbio.5c00232",
     "description": "Both Japan and the UK have recognized the growing importance of synthetic and engineering biology for transforming life science research and transitioning towards a sustainable bio-based economy. Such a shift will require extensive international cooperation and collaboration. In this viewpoint, we provide a summary of the recent ‘Japan-UK Synthetic Biology Conference, Spring 2025’ that aimed to facilitate new links between researchers across the broad field of synthetic biology. We cover the core scientific topics discussed, distil some of the emerging trends, and outline the remaining challenges that are hampering progress. We end by highlighting some of the ways in which international collaborations may help address these issues through a combination of sharing expertise, national infrastructures, and aligned funding."
@@ -46,7 +46,7 @@
   {
     "type": "publication",
     "title": "From FAIR to CURE: Guidelines for Computational Models of Biological Systems",
-    "authors": "Sauro H.M., ..., Gorochowski T.E., ... & Moraru I",
+    "authors": "Sauro H.M., ..., <b>Gorochowski T.E.</b>, ... & Moraru I",
     "journal": "arXiv",
     "volume": "",
     "number": 2502.15597,
@@ -57,7 +57,7 @@
   {
     "type": "publication",
     "title": "Cas9-based enrichment for targeted long-read metabarcoding",
-    "authors": "Nikolaeva-Reynolds L., Cammies C., Crichton R. & Gorochowski T.E.",
+    "authors": "Nikolaeva-Reynolds L., Cammies C., Crichton R. & <b>Gorochowski T.E.</b>",
     "journal": "Royal Society Open Science",
     "volume": 12,
     "number": 242110,
@@ -68,7 +68,7 @@
   {
     "type": "publication",
     "title": "Engineering Biology Applications for Environmental Solutions: Potential and Challenges",
-    "authors": "Lea-Smith D.J., Hassard F., Coulon F., Partridge N., Horsfall L., Parker K.D.J., Smith R.D.J., McCarthy R.R., McKew B., Gutierrez T., Kumar V., Dotro G., Yang Z., EBIC partners & Krasnogor N.",
+    "authors": "Lea-Smith D.J., Hassard F., Coulon F., Partridge N., Horsfall L., Parker K.D.J., Smith R.D.J., McCarthy R.R., McKew B., Gutierrez T., Kumar V., Dotro G., Yang Z., EBIC partners & <b>Krasnogor N.</b>",
     "journal": "Nature Communications",
     "volume": 16,
     "number": 3538,
