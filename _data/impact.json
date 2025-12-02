@@ -1,6 +1,17 @@
 [
   {
     "type": "publication",
+    "title": "Emerging trends in genome integration tools for precision engineering of diverse bacterial species",
+    "authors": "Rohmat R.K., Irvine T., Joshi S., Bailey A., Jenkins C., Ulaeto D., Buscaill P. & <b>Gorochowski T.E.</b>",
+    "journal": "Synthetic Biology",
+    "volume": "",
+    "number": "",
+    "year": 2025,
+    "doi": "(in press)",
+    "description": "The ability to precisely insert DNA payloads into a genome enables the comprehensive engineering of cellular phenotypes and the creation of new biotechnologies. To achieve such modifications, the most widely used techniques rely on a host cell's native DNA repair mechanisms like homologous recombination, which hampers their broader use in organisms lacking these capabilities. Here, we explore the current landscape of genome integration systems with a particular focus on those that function in bacteria and which are precise, self-contained and portable, placing minimal requirements on the host cell. Through a historical analysis, we observe long-term use of recombineering technologies, a recent rise in the use of CRISPR-guided systems that consist of associated integrase machinery, and growing efforts to modify non-model organisms. Looking forward, we highlight some of the remaining challenges and how synthetic genomics may offer a way to create bacterial strains optimised for extensive long-term modification. As the field of synthetic biology sets its sights on real-world impact, the effective engineering of genomes will be critical in shaping the robust phenotypes that applications demand."
+  },
+  {
+    "type": "publication",
     "title": "SHARK: a specialized host for assembling R6K plasmids",
     "authors": "Joshi S.H.-N., Jenkins C., Ulaeto D. & <b>Gorochowski T.E.</b>",
     "journal": "bioRxiv",
