@@ -105,7 +105,7 @@
     "event": "Fundamental to Applied Biosciences Conference",
     "location": "Bristol, UK",
     "date": 2025,
-    "url": "https://"
+    "url": "https://www.bristol.ac.uk/neuroscience/events/2025/fab-25mar.html"
   },
   {
     "type": "talk",
@@ -114,7 +114,7 @@
     "event": "UKRI Engineering Biology Mission Hubs and Mission Awards Science Showcase",
     "location": "Manchester, UK",
     "date": 2025,
-    "url": ""
+    "url": "https://engagementhub.ukri.org/bbsrc-research-strategy-and-programmes/2025-ukri-engineering-biology-mission-event/"
   },
   {
     "type": "talk",
@@ -123,7 +123,7 @@
     "event": "Molecular Microbial Ecology Conference",
     "location": "Birmingham, UK",
     "date": 2025,
-    "url": ""
+    "url": "https://appliedmicrobiology.org/ems-event-calendar/mmeg25.html"
   },
   {
     "type": "outreach",
@@ -141,16 +141,34 @@
     "event": "UKRI Engineering Biology Mission Hubs and Mission Awards Science Showcase",
     "location": "Manchester, UK",
     "date": 2025,
-    "url": ""
+    "url": "https://engagementhub.ukri.org/bbsrc-research-strategy-and-programmes/2025-ukri-engineering-biology-mission-event/"
+  },
+  {
+    "type": "talk",
+    "title": "???",
+    "speaker": "Moubani Chakraborty",
+    "event": "UKRI Engineering Biology Mission Hubs and Mission Awards Science Showcase",
+    "location": "Manchester, UK",
+    "date": 2025,
+    "url": "https://engagementhub.ukri.org/bbsrc-research-strategy-and-programmes/2025-ukri-engineering-biology-mission-event/"
+  },
+  {
+    "type": "talk",
+    "title": "???",
+    "speaker": "Shylaja Mohandass",
+    "event": "UKRI Engineering Biology Mission Hubs and Mission Awards Science Showcase",
+    "location": "Manchester, UK",
+    "date": 2025,
+    "url": "https://engagementhub.ukri.org/bbsrc-research-strategy-and-programmes/2025-ukri-engineering-biology-mission-event/"
   },
   {
     "type": "talk",
     "title": "???",
     "speaker": "Yasir Akbar",
-    "event": "EBIC Conference",
+    "event": "EBIC ECR Conference",
     "location": "Edinburgh, UK",
     "date": 2025,
-    "url": ""
+    "url": "https://ebicentre.co.uk/engineering-biology-for-environmental-sustainability-conference/"
   },
   {
     "type": "poster",
@@ -159,7 +177,7 @@
     "event": "Synthetic Biology UK Conference",
     "location": "London, UK",
     "date": 2025,
-    "url": ""
+    "url": "https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=127252&eventID=236&CSPCHD=002001000000Owu8x9XmuLLIbFr_EG2i6SHYG$YG$etTWUt9EQ"
   },
   {
     "type": "talk",
