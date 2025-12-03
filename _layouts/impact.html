@@ -43,7 +43,9 @@ bodyClass: page-impact
                 {% for talk in site.data.impact %}
                 {% if talk.type == "talk" %}
                     <div class="content">
-                        <b><a href="{{talk.url}}">{{talk.title}}</a></b>, {{talk.event}}, {{talk.location}}, {{talk.date}} ({{talk.speaker}})
+                        <p>
+                            <b><a href="{{talk.url}}">{{talk.title}}</a></b>, {{talk.event}}, {{talk.location}}, {{talk.date}} ({{talk.speaker}})
+                        </p>
                     </div>
                 {% endif %}
                 {% endfor %}
