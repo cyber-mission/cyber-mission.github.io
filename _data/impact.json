@@ -169,4 +169,34 @@
     "date": 2025,
     "url": ""
   },
+  {
+    "type": "grant",
+    "name": "International Exchange",
+    "funder": "Royal Society",
+    "investigators": "PI: <b>Thomas Gorochowski</b>, Co-I: Samuel Schaffter",
+    "value": "£12,000",
+    "id": "IES\\R1\\251443",
+    "date": 2025,
+    "url": "https://royalsociety.org/grants/international-exchanges/"
+  },
+  {
+    "type": "grant",
+    "name": "Engineering Biology Seed Corn",
+    "funder": "UKRI",
+    "investigators": "PI: <b>Thomas Gorochowski</b>, Co-Is: Natalio Krasnogor, Diego Oyarzún, Christopher Clements, Yulia Yuzenkova",
+    "value": "£70,088",
+    "id": "BB/Y007638/1",
+    "date": 2025,
+    "url": "https://www.ukri.org/news/ukri-invests-5-8m-to-drive-growth-in-engineering-biology-sector/"
+  },
+  {
+    "type": "grant",
+    "name": "Engineering Biology Mission Award",
+    "funder": "UKRI",
+    "investigators": "PI: <b>Thomas Gorochowski</b>, Co-Is: Natalio Krasnogor, Diego Oyarzún, Christopher Clements, Yulia Yuzenkova",
+    "value": "£1.9M",
+    "id": "BB/Y007638/1",
+    "date": 2024,
+    "url": "https://www.ukri.org/opportunity/engineering-biology-missions-hubs-and-mission-awards/"
+  }
 ]

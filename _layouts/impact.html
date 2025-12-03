@@ -44,7 +44,7 @@ bodyClass: page-impact
                 {% if talk.type == "talk" %}
                     <div class="content">
                         <p>
-                            <b><a href="{{talk.url}}">{{talk.title}}</a></b>, {{talk.event}}, {{talk.location}}, {{talk.date}} ({{talk.speaker}})
+                            <b><a href="{{talk.url}}">{{talk.title}}</a></b>, {{talk.event}}, {{talk.location}}, {{talk.date}} (<b>{{talk.speaker}}</b>)
                         </p>
                     </div>
                 {% endif %}
@@ -64,7 +64,7 @@ bodyClass: page-impact
                 {% if poster.type == "poster" %}
                     <div class="content">
                         <p>
-                            <b><a href="{{poster.url}}">{{poster.title}}</a></b>, {{poster.event}}, {{poster.location}}, {{poster.date}} ({{poster.speaker}})
+                            <b><a href="{{poster.url}}">{{poster.title}}</a></b>, {{poster.event}}, {{poster.location}}, {{poster.date}} (<b>{{poster.speaker}}</b>)
                         </p>
                     </div>
                 {% endif %}
@@ -76,23 +76,6 @@ bodyClass: page-impact
 
 {% if site.data.impact %}
 <div class="strip strip-grey">
-<div class="pt-md-6 pb-md-3 container pb-2 pt-4">
-    <div class="row justify-content-start">
-        <div class="col-12 col-md-8">
-            <h2>Funding</h2>
-            {% for grant in site.data.impact %}
-            {% if grant.type == "grant" %}
-                <div class="content"><p>{{grant.title}}</p></div>
-            {% endif %}
-            {% endfor %}
-        </div>
-    </div>
-</div>
-</div>
-{% endif %}
-
-{% if site.data.impact %}
-
     <div class="pt-md-6 pb-md-3 container pb-2 pt-4">
         <div class="row justify-content-start">
             <div class="col-12 col-md-8">
@@ -101,7 +84,7 @@ bodyClass: page-impact
                 {% if outreach.type == "outreach" %}
                     <div class="content">
                         <p>
-                            <b><a href="{{publication.url}}">{{outreach.title}}</a></b>, {{outreach.location}}, {{outreach.date}} ({{outreach.speaker}})
+                            <b><a href="{{publication.url}}">{{outreach.title}}</a></b>, {{outreach.location}}, {{outreach.date}} (<b>{{outreach.speaker}}</b>)
                         </p>
                     </div>
                 {% endif %}
@@ -109,4 +92,24 @@ bodyClass: page-impact
             </div>
         </div>
     </div>
+</div>
+{% endif %}
+
+{% if site.data.impact %}
+<div class="pt-md-6 pb-md-3 container pb-2 pt-4">
+    <div class="row justify-content-start">
+        <div class="col-12 col-md-8">
+            <h2>Funding</h2>
+            {% for grant in site.data.impact %}
+            {% if grant.type == "grant" %}
+                <div class="content">
+                    <p>
+                        <b><a href="{{grant.url}}">{{grant.name}}</a></b>, {{grant.funder}}, {{grant.id}}, {{grant.date}} ({{grant.value}}; {{grant.investigators}})
+                    </p>
+                </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
 {% endif %}
