@@ -68,7 +68,7 @@
   {
     "type": "publication",
     "title": "From FAIR to CURE: Guidelines for Computational Models of Biological Systems",
-    "authors": "Sauro H.M., ..., <b>Gorochowski T.E.</b>, ... & Moraru I",
+    "authors": "Sauro H.M., ..., <b>Gorochowski T.E.</b>, ... & Moraru I.",
     "journal": "arXiv",
     "volume": "",
     "number": "2502.15597",
@@ -100,7 +100,7 @@
   },
   {
     "type": "talk",
-    "title": "Optimising Genetically Engineered Microorganisms using 'Ecological Wind Tunnels'",
+    "title": "Optimising genetically engineered microorganisms using 'Ecological Wind Tunnels'",
     "speaker": "Joseph Pennycook",
     "event": "Fundamental to Applied Biosciences Conference",
     "location": "Bristol, UK",
@@ -220,7 +220,7 @@
     "type": "grant",
     "name": "Travel Scholarship",
     "funder": "AlgaeCytes",
-    "investigators": "<b>Shylaja Mohandass</b>",
+    "investigators": "PI: <b>Shylaja Mohandass</b>",
     "value": "£200",
     "id": "",
     "date": 2025,
