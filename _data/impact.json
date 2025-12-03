@@ -126,6 +126,15 @@
     "url": "https://appliedmicrobiology.org/ems-event-calendar/mmeg25.html"
   },
   {
+    "type": "talk",
+    "title": "Cyanobacteria engineering for restoring environment (CYBER)",
+    "speaker": "Shylaja Mohandass",
+    "event": "AlgaeCytes",
+    "location": "Kent, UK",
+    "date": 2025,
+    "url": "https://algaecytes.com"
+  },
+  {
     "type": "outreach",
     "title": "The science of microplastics: what exactly are microplastics and why we should care",
     "event": "The Science Tapes Podcast",
@@ -133,6 +142,15 @@
     "location": "Bristol, UK",
     "date": 2025,
     "url": "https://open.spotify.com/episode/5zZ6l0jnoLJckjGnfOHJX2"
+  },
+  {
+    "type": "outreach",
+    "title": "Industrial visit",
+    "event": "AlgaeCytes",
+    "speaker": "Shylaja Mohandass",
+    "location": "Kent, UK",
+    "date": 2025,
+    "url": "https://algaecytes.com"
   },
   {
     "type": "talk",
@@ -154,7 +172,7 @@
   },
   {
     "type": "poster",
-    "title": "???",
+    "title": "From parts to program – genetic toolkit for reprogramming cyanobacteria",
     "speaker": "Shylaja Mohandass",
     "event": "UKRI Engineering Biology Mission Hubs and Mission Awards Science Showcase",
     "location": "Manchester, UK",
@@ -197,6 +215,16 @@
     "id": "IES\\R1\\251443",
     "date": 2025,
     "url": "https://royalsociety.org/grants/international-exchanges/"
+  },
+  {
+    "type": "grant",
+    "name": "Travel Scholarship",
+    "funder": "AlgaeCytes",
+    "investigators": "<b>Shylaja Mohandass</b>",
+    "value": "£200",
+    "id": "",
+    "date": 2025,
+    "url": "https://algaecytes.com"
   },
   {
     "type": "grant",
