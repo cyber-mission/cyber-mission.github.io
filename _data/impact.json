@@ -1,6 +1,17 @@
 [
   {
     "type": "publication",
+    "title": "Canonical transcription termination mechanisms explain a minority of operons in cyanobacteria",
+    "authors": "Cascino J.A., Dierksheide K.J., Vishwakarma R.K., <b>Yuzenkova Y.</b>, Babitzke P., Murakami K.S. & Li G.-W.",
+    "journal": "bioRxiv",
+    "volume": "",
+    "number": "",
+    "year": 2025,
+    "doi": "10.1101/2025.11.10.687660",
+    "description": "Cyanobacteria are the most abundant phototrophs and hold potential as a carbon-negative platform for bioengineering applications. However, these efforts have been hampered by limited mechanistic understanding of their gene expression, including transcription termination. Unlike most bacteria, cyanobacteria lack the transcription termination factor Rho, raising the speculation that all transcription ends with intrinsic terminators. Here we show that most transcription units (TUs) in Synechococcus elongatus PCC 7942 are not terminated by known termination pathways. Although many TUs (52%) have unique, well-defined 3′ ends, only a small fraction have features that resemble canonical intrinsic terminators (22%). The noncanonical 3′ ends broadly lacked strong secondary structure, making it unclear how these ends are protected against 3′-5′ exonucleolytic decay. Furthermore, many TUs (46%) have diverse positions of mRNA 3′ ends, suggesting a potentially diffuse termination signal. Finally, we observed a moderate increase in RNA levels downstream of most defined 3′ ends in the absence of the transcription-repair coupling factor Mfd. This finding indicates that Mfd plays a limited, but widespread, role in RNA end formation, potentially through termination of stalled RNAPs. Together, our work reveals unique end architectures of the cyanobacterial transcriptome and suggests that undescribed transcription termination mechanisms are active in the phylum."
+  },
+  {
+    "type": "publication",
     "title": "Emerging trends in genome integration tools for precision engineering of diverse bacterial species",
     "authors": "Rohmat R.K., Irvine T., Joshi S., Bailey A., Jenkins C., Ulaeto D., Buscaill P. & <b>Gorochowski T.E.</b>",
     "journal": "Synthetic Biology",
@@ -25,12 +36,12 @@
     "type": "publication",
     "title": "Data-driven inference of digital twins for high-throughput phenotyping of motile and light-responsive microorganisms",
     "authors": "Giusti A., Salzano D., di Bernardo M. & Gorochowski T.E.",
-    "journal": "bioRxiv",
-    "volume": "",
-    "number": "",
+    "journal": "Journal of the Royal Society Interface",
+    "volume": "22",
+    "number": "20250780",
     "year": 2025,
-    "doi": "10.1101/2025.02.21.639423",
-    "description": "Light can affect the movement of microorganisms. These responses can drive collective behaviours like photoaccumulation and photodispersion, which play a key role in broader biological functions like photosynthesis. Our understanding of these emergent phenomena is severely limited by difficulties in obtaining data needed to establish accurate models that can serve as a basis for multi-scale analyses. Here, we address this issue by developing an integrated experimental and computational platform to collect large temporal imaging datasets that allow for the inference of ‘digital twins’ — mathematically precise computational models that accurately mirror the behavior of individual microorganisms — and show that they can replicate the light response of diverse microorganisms in silico. We show that a generalised phenomenological model of movement can be effectively parameterised from experimental data to capture key behavioural traits of two commonly studied photo-responsive microorganisms (Euglena gracilis and Volvox aureus) and demonstrate our model’s ability to accurate reproduce patterns of movement for individuals and populations in response to dynamic and spatially varying light patterns. This work takes steps towards the automated phenotyping of multi-scale behaviours in biology and complements high-throughput genome sequencing efforts by allowing for more comprehensive and quantitative genotype-to-phenotype mappings. It also unlocks new opportunities for the design of spatial control algorithms to guide collective microorganism behaviour."
+    "doi": "10.1098/rsif.2025.0780",
+    "description": "Many microorganisms alter their movement in response to light. These responses can drive collective behaviours like photoaccumulation and photodispersion, which play a key role in broader biological functions like photosynthesis. Our understanding of these emergent phenomena is severely limited by difficulties in obtaining data needed to establish accurate models that can serve as a basis for multi‑scale analyses. Here, we address this issue by developing an integrated experimental and computational platform to collect large temporal imaging datasets that allow for the inference of ‘digital twins’ — mathematically precise computational models that accurately mirror the behaviour of individual microorganisms — and show that they can replicate the light response of diverse microorganisms in silico. We demonstrate that a generalized phenomenological model capable of simultaneously capturing dynamic speed variations and multiple light responses can be effectively parameterized from experimental data to capture key behavioural traits of two commonly studied photo‑ responsive microorganisms (Euglena gracilis and Volvox aureus). We also show our model’s ability to accurately reproduce patterns of movement for individuals and populations in response to dynamic and spatially varying light patterns. This work takes steps towards the automated phenotyping of multi‑scale behaviours in biology and unlocks new opportunities for the design of spatial control algorithms to guide collective microorganism behaviour."
   },
   {
     "type": "publication",
@@ -60,7 +71,7 @@
     "authors": "Sauro H.M., ..., <b>Gorochowski T.E.</b>, ... & Moraru I",
     "journal": "arXiv",
     "volume": "",
-    "number": 2502.15597,
+    "number": "2502.15597",
     "year": 2025,
     "doi": "10.48550/arXiv.2502.15597",
     "description": "Guidelines for managing scientific data have been established under the FAIR principles requiring that data be Findable, Accessible, Interoperable, and Reusable. In many scientific disciplines, especially computational biology, both data and models are key to progress. For this reason, and recognizing that such models are a very special type of 'data', we argue that computational models, especially mechanistic models prevalent in medicine, physiology and systems biology, deserve a complementary set of guidelines. We propose the CURE principles, emphasizing that models should be Credible, Understandable, Reproducible, and Extensible. We delve into each principle, discussing verification, validation, and uncertainty quantification for model credibility; the clarity of model descriptions and annotations for understandability; adherence to standards and open science practices for reproducibility; and the use of open standards and modular code for extensibility and reuse. We outline recommended and baseline requirements for each aspect of CURE, aiming to enhance the impact and trustworthiness of computational models, particularly in biomedical applications where credibility is paramount. Our perspective underscores the need for a more disciplined approach to modeling, aligning with emerging trends such as Digital Twins and emphasizing the importance of data and modeling standards for interoperability and reuse. Finally, we emphasize that given the non-trivial effort required to implement the guidelines, the community moves to automate as many of the guidelines as possible."
@@ -86,5 +97,76 @@
     "year": 2025,
     "doi": "10.1038/s41467-025-58492-0",
     "description": "Engineering biology applies synthetic biology to address global environmental challenges like bioremediation, biosequestration, pollutant monitoring, and resource recovery. This perspective outlines innovations in engineering biology, its integration with other technologies (e.g., nanotechnology, IoT, AI), and commercial ventures leveraging these advancements. We also discuss commercialisation and scaling challenges, biosafety and biosecurity considerations including biocontainment strategies, social and political dimensions, and governance issues that must be addressed for successful real-world implementation. Finally, we highlight future perspectives and propose strategies to overcome existing hurdles, aiming to accelerate the adoption of engineering biology for environmental solutions."
-  }
+  },
+  {
+    "type": "talk",
+    "title": "Optimising Genetically Engineered Microorganisms using ‘Ecological Wind Tunnels",
+    "speaker": "Joseph Pennycook",
+    "event": "Fundamental to Applied Biosciences Conference",
+    "location": "Bristol, UK",
+    "date": 2025,
+    "url": "https://"
+  },
+  {
+    "type": "talk",
+    "title": "Unravelling the role of ecology when engineering biology",
+    "speaker": "Joseph Pennycook",
+    "event": "UKRI Engineering Biology Mission Hubs and Mission Awards Science Showcase",
+    "location": "Manchester, UK",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
+    "title": "Does ecological stress alter the function of genetically engineered cyanobacteria?",
+    "speaker": "Joseph Pennycook",
+    "event": "Molecular Microbial Ecology Conference",
+    "location": "Birmingham, UK",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "outreach",
+    "title": "The Science Tapes Podcast – The science of microplastics. What exactly are microplastics and why we should care",
+    "speaker": "Joseph Pennycook",
+    "location": "Birmingham, UK",
+    "date": 2025,
+    "url": "https://open.spotify.com/episode/5zZ6l0jnoLJckjGnfOHJX2"
+  },
+  {
+    "type": "talk",
+    "title": "???",
+    "speaker": "Yasir Akbar",
+    "event": "UKRI Engineering Biology Mission Hubs and Mission Awards Science Showcase",
+    "location": "Manchester, UK",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
+    "title": "???",
+    "speaker": "Yasir Akbar",
+    "event": "EBIC Conference",
+    "location": "Edinburgh, UK",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "poster",
+    "title": "???",
+    "speaker": "Yasir Akbar",
+    "event": "Synthetic Biology UK Conference",
+    "location": "London, UK",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
+    "title": "???",
+    "speaker": "Moubani Chakraborty",
+    "event": "Annual International RNA Polymerase Workshop",
+    "location": "Birmingham, UK",
+    "date": 2025,
+    "url": ""
+  },
 ]
