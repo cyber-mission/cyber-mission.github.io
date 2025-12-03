@@ -39,10 +39,33 @@ bodyClass: page-impact
     <div class="pt-md-6 pb-md-3 container pb-2 pt-4">
         <div class="row justify-content-start">
             <div class="col-12 col-md-8">
-                <h2>Talks and Meetings</h2>
+                <h2>Talks</h2>
                 {% for talk in site.data.impact %}
                 {% if talk.type == "talk" %}
-                    <div class="content"><p>{{talk.title}}</p></div>
+                    <div class="content">
+                        <b><a href="{{talk.url}}">{{talk.title}}</a></b>, {{talk.event}}, {{talk.location}}, {{talk.date}} ({{talk.speaker}})
+                    </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+{% if site.data.impact %}
+<div class="strip strip-grey">
+    <div class="pt-md-6 pb-md-3 container pb-2 pt-4">
+        <div class="row justify-content-start">
+            <div class="col-12 col-md-8">
+                <h2>Posters</h2>
+                {% for poster in site.data.impact %}
+                {% if poster.type == "poster" %}
+                    <div class="content">
+                        <p>
+                            <b><a href="{{poster.url}}">{{poster.title}}</a></b>, {{poster.event}}, {{poster.location}}, {{poster.date}} ({{poster.speaker}})
+                        </p>
+                    </div>
                 {% endif %}
                 {% endfor %}
             </div>
@@ -74,7 +97,11 @@ bodyClass: page-impact
                 <h2>Outreach and Public Engagement</h2>
                 {% for outreach in site.data.impact %}
                 {% if outreach.type == "outreach" %}
-                    <div class="content"><p>{{outreach.title}}</p></div>
+                    <div class="content">
+                        <p>
+                            <b><a href="{{publication.url}}">{{outreach.title}}</a></b>, {{outreach.location}}, {{outreach.date}} ({{outreach.speaker}})
+                        </p>
+                    </div>
                 {% endif %}
                 {% endfor %}
             </div>
