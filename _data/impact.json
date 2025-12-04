@@ -186,10 +186,10 @@
     "type": "talk",
     "title": "???",
     "speaker": "Thierry Le Goff, NML",
-    "event": "Industrial Biotechnology Innovation Catalyst (IBIC)",
+    "event": "Industrial Biotechnology Innovation Catalyst (IBIC) Conference",
     "location": "Manchester, UK",
     "date": 2025,
-    "url": ""
+    "url": "https://www.mib.manchester.ac.uk/ib-innovation-catalyst/"
   },
   {
     "type": "talk",
@@ -198,7 +198,7 @@
     "event": "ASEAN-UK Regional Training & Workshop",
     "location": "London, UK",
     "date": 2025,
-    "url": ""
+    "url": "https://www.gov.uk/government/news/asean-uk-workshop-paves-path-for-engineering-biology-innovation"
   },
   {
     "type": "talk",
@@ -207,7 +207,7 @@
     "event": "Synthetic Biology UK",
     "location": "London, UK",
     "date": 2025,
-    "url": ""
+    "url": "https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=127252&eventID=236&CSPCHD=000001000000157jcQ2kPYk6mN5ud4LVQQ_JWWCKQNi5iSkkCa"
   },
   {
     "type": "talk",
@@ -216,7 +216,7 @@
     "event": "AI Hub in Generative Models",
     "location": "UCL, London, UK",
     "date": 2025,
-    "url": ""
+    "url": "https://www.genai.ac.uk"
   },
   {
     "type": "talk",
@@ -233,6 +233,52 @@
     "speaker": "Diego Oyarzún",
     "event": "PEGS Europe",
     "location": "Lisbon, Portugal",
+    "date": 2025,
+    "url": "https://www.pegsummiteurope.com"
+  },
+
+  {
+    "type": "talk",
+    "title": "Sequencing-based methods for accelerated cellular programming",
+    "speaker": "Thomas Gorochowski",
+    "event": "Japan-UK Synthetic Biology Confrerence",
+    "location": "Osaka, Japan",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
+    "title": "Programming biological systems across scales using synthetic biology (invited keynote)",
+    "speaker": "Thomas Gorochowski",
+    "event": "29th IEEE International Symposium on Asynchronous Circuits and Systems",
+    "location": "Portland, USA",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
+    "title": "What does the future of synthetic biology look like (invited keynote)",
+    "speaker": "Thomas Gorochowski",
+    "event": "Microbial Engineering Symposium",
+    "location": "Cambridge, UK",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
+    "title": "Data-centric approaches to biological design and engineering (invited keynote)",
+    "speaker": "Thomas Gorochowski",
+    "event": "Multimodal AI Conference",
+    "location": "London, UK",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
+    "title": "Programming biological systems across scales using synthetic biology",
+    "speaker": "Thomas Gorochowski",
+    "event": "CBS Research Seminar",
+    "location": "Montpellier, France",
     "date": 2025,
     "url": ""
   },
