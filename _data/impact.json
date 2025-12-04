@@ -34,6 +34,17 @@
   },
   {
     "type": "publication",
+    "title": "Discovery of Electron Hole-hopping Redox Mutations in Myoglobin by Deep Mutational Learning",
+    "authors": "Küng C., <b>Dalkıran A.</b>, Vanella R., <b>Oyarzún D.A.</b> & Nash M.A.",
+    "journal": "bioRxiv",
+    "volume": "",
+    "number": "",
+    "year": 2025,
+    "doi": "10.1101/2025.08.27.672588",
+    "description": "In addition to storing molecular oxygen, myoglobin catalyzes peroxidase-like reactions involving high valency iron(IV)-oxo species that support one-electron oxidations on a range of substrates at an open active site. In select metalloenzymes, long-range electron transfer can be mediated by hole-hopping pathways composed of aromatic residues that act as relay stations for oxidative equivalents. However, it remains unclear how sequence variations could introduce or alter such catalytic mechanisms in myoglobin. Here we used enzyme proximity sequencing (EP-Seq) to measure the peroxidase activity levels of >6,000 human myoglobin variants. The resulting fitness landscape reveals how aromatic substitutions, in particular surface-exposed tryptophans, can enhance peroxidase activity. Using protein language models in tandem with feedforward neural networks, we trained an accurate fitness predictor on the experimental dataset, and applied it to evaluate >4M double mutant variants. The predictions suggested a beneficial role for hole-hopping mutations in improving peroxidase activity. We experimentally tested 20 high scoring variants in a yeast display assay, all of which outperformed wild type myoglobin. Three selected variants were also tested in soluble format and similarly showed improved performance. A focused combinatorial library yielded a top double tryptophan variant (Q92W/F107W) with 4.9-fold higher catalytic efficiency than wild type. These results show that hole-hopping pathways can be identified and engineered through deep mutational learning, with broad implications for biocatalyst and redox enzyme design."
+  },
+  {
+    "type": "publication",
     "title": "Data-driven inference of digital twins for high-throughput phenotyping of motile and light-responsive microorganisms",
     "authors": "Giusti A., Salzano D., di Bernardo M. & <b>Gorochowski T.E.</b>",
     "journal": "Journal of the Royal Society Interface",
@@ -161,6 +172,70 @@
     "date": 2025,
     "url": "https://engagementhub.ukri.org/bbsrc-research-strategy-and-programmes/2025-ukri-engineering-biology-mission-event/"
   },
+
+  {
+    "type": "talk",
+    "title": "Sequence-to-expression optimization with machine learning",
+    "speaker": "Yasir Akbar",
+    "event": "UKRI Engineering Biology Mission Hubs and Mission Awards Science Showcase",
+    "location": "Manchester, UK",
+    "date": 2025,
+    "url": "https://engagementhub.ukri.org/bbsrc-research-strategy-and-programmes/2025-ukri-engineering-biology-mission-event/"
+  },
+  {
+    "type": "talk",
+    "title": "???",
+    "speaker": "Thierry Le Goff, NML",
+    "event": "Industrial Biotechnology Innovation Catalyst (IBIC)",
+    "location": "Manchester, UK",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
+    "title": "???",
+    "speaker": "Julian Braybrook, NML",
+    "event": "ASEAN-UK Regional Training & Workshop",
+    "location": "London, UK",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
+    "title": "Deep mutational learning for effective enzyme engineering",
+    "speaker": "Alperen Dalkıran",
+    "event": "Synthetic Biology UK",
+    "location": "London, UK",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
+    "title": "Biological design with machine learning and limited data",
+    "speaker": "Diego Oyarzún",
+    "event": "AI Hub in Generative Models",
+    "location": "UCL, London, UK",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
+    "title": "Biological design with machine learning and limited data",
+    "speaker": "Diego Oyarzún",
+    "event": "University of Cambridge",
+    "location": "Cambridge, UK",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
+    "title": "Sequence-to-expression prediction using mRNA secondary structure information (invited keynote)",
+    "speaker": "Diego Oyarzún",
+    "event": "PEGS Europe",
+    "location": "Lisbon, Portugal",
+    "date": 2025,
+    "url": ""
+  },
   {
     "type": "poster",
     "title": "???",
@@ -213,8 +288,18 @@
     "investigators": "PI: <b>Thomas Gorochowski</b>, Co-I: Samuel Schaffter",
     "value": "£12,000",
     "id": "IES\\R1\\251443",
-    "date": 2025,
+    "date": "2025–2027",
     "url": "https://royalsociety.org/grants/international-exchanges/"
+  },
+  {
+    "type": "grant",
+    "name": "Bio-Security Prevent and Respond Programme",
+    "funder": "DSIT",
+    "investigators": "???",
+    "value": "???",
+    "id": "",
+    "date": "2025–2026",
+    "url": "https://algaecytes.com"
   },
   {
     "type": "grant",
@@ -233,7 +318,7 @@
     "investigators": "PI: <b>Thomas Gorochowski</b>, Co-Is: <b>Christopher Clements</b>, <b>Diego Oyarzún</b>, <b>Natalio Krasnogor</b>, <b>Yulia Yuzenkova</b>",
     "value": "£70,088",
     "id": "BB/Y007638/1",
-    "date": 2025,
+    "date": "2025–2026",
     "url": "https://www.ukri.org/news/ukri-invests-5-8m-to-drive-growth-in-engineering-biology-sector/"
   },
   {
@@ -243,7 +328,7 @@
     "investigators": "PI: <b>Thomas Gorochowski</b>, Co-Is: <b>Christopher Clements</b>, <b>Diego Oyarzún</b>, <b>Natalio Krasnogor</b>, <b>Yulia Yuzenkova</b>",
     "value": "£1.9M",
     "id": "BB/Y007638/1",
-    "date": 2024,
+    "date": "2024–2026",
     "url": "https://www.ukri.org/opportunity/engineering-biology-missions-hubs-and-mission-awards/"
   }
 ]
