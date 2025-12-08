@@ -275,6 +275,15 @@
   },
   {
     "type": "talk",
+    "title": "Data-centric approaches to biological design and engineering (invited keynote)",
+    "speaker": "Yulia Yuzenkova",
+    "event": "Interconnections and Cross-rRegulation of Gene Expression Processes",
+    "location": "Gottingen, Germany",
+    "date": 2025,
+    "url": ""
+  },
+  {
+    "type": "talk",
     "title": "Programming biological systems across scales using synthetic biology",
     "speaker": "Thomas Gorochowski",
     "event": "CBS Research Seminar",
