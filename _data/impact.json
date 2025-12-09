@@ -1,6 +1,17 @@
 [
   {
     "type": "publication",
+    "title": "Optimization of regulatory DNA with active learning",
+    "authors": "Shena Y., Kudlab G. & <b>Oyarzún D.A.</b>",
+    "journal": "Computational and Structural Biotechnology Journal",
+    "volume": "27",
+    "number": "4384–4392",
+    "year": 2025,
+    "doi": "10.1016/j.csbj.2025.09.033",
+    "description": "Many biotechnology applications rely on microbial strains engineered to express heterologous proteins at maximal yield. A common strategy for improving protein output is to design expression systems with optimized regulatory DNA elements. Recent advances in high-throughput experimentation have enabled the use of machine learning predictors in tandem with sequence optimizers to find regulatory sequences with improved phenotypes. Yet the narrow coverage of training data, limited model generalization, and non-convexity of genotype–phenotype landscapes can limit the use of traditional sequence optimization algorithms. Here, we explore the use of active learning as a strategy to improve expression levels through iterative rounds of measurements, model training, and sequence sampling-and-selection. We explore convergence and performance of the active learning loop using synthetic data and an experimentally characterized genotype–phenotype landscape of yeast promoter sequences. Our results show that active learning can outperform one-shot optimization approaches in complex landscapes with a high degree of epistasis. We demonstrate the ability of active learning to effectively optimize sequences using datasets from different experimental conditions, with potential for leveraging data across laboratories, strains or growth conditions. Our findings highlight active learning as an effective framework for DNA sequence design, offering a powerful strategy for phenotype optimization in biotechnology."
+  },
+  {
+    "type": "publication",
     "title": "Canonical transcription termination mechanisms explain a minority of operons in cyanobacteria",
     "authors": "Cascino J.A., Dierksheide K.J., Vishwakarma R.K., <b>Yuzenkova Y.</b>, Babitzke P., Murakami K.S. & Li G.-W.",
     "journal": "bioRxiv",
@@ -172,7 +183,6 @@
     "date": 2025,
     "url": "https://engagementhub.ukri.org/bbsrc-research-strategy-and-programmes/2025-ukri-engineering-biology-mission-event/"
   },
-
   {
     "type": "talk",
     "title": "Sequence-to-expression optimization with machine learning",
@@ -236,7 +246,6 @@
     "date": 2025,
     "url": "https://www.pegsummiteurope.com"
   },
-
   {
     "type": "talk",
     "title": "Sequencing-based methods for accelerated cellular programming",
