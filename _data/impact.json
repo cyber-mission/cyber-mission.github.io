@@ -12,6 +12,17 @@
   },
   {
     "type": "publication",
+    "title": "SHARK: a specialized host for assembling R6K plasmids",
+    "authors": "Joshi S.H.-N., Jenkins C., Ulaeto D. & <b>Gorochowski T.E.</b>",
+    "journal": "ACS Synthetic Biology",
+    "volume": "15",
+    "number": "867–875",
+    "year": 2026,
+    "doi": "10.1101/2025.10.06.680659",
+    "description": "R6K plasmids are commonly used for a wide range of genome engineering applications due to their ability to support transient delivery of genetic cargoes in many hosts. The maintenance of R6K plasmids requires specific strains. Unfortunately, many of these have obscure backgrounds, limited availability and were not built for efficient cloning. To address this issue, we present the construction and characterisation of a series of Pir E. coli strains called SHARK that are built from the DH10B derivative, Marionette-Clo. All SHARK strains have a genome encoded Pir gene for stable R6K plasmid maintenance and a λCI gene for tight unconditional repression of specific genes on plasmids. We show that SHARK strains are >100-fold more efficient than a commercial Pir strain for large and complex cloning reactions. SHARK is intended to help facilitate the cloning of large and complex R6K plasmids for challenging genome engineering projects, with all strains and genetic tools for their assembly being made publicly available."
+  },
+  {
+    "type": "publication",
     "title": "Optimization of regulatory DNA with active learning",
     "authors": "Shena Y., Kudlab G. & <b>Oyarzún D.A.</b>",
     "journal": "Computational and Structural Biotechnology Journal",
@@ -37,22 +48,11 @@
     "title": "Emerging trends in genome integration tools for precision engineering of diverse bacterial species",
     "authors": "Rohmat R.K., Irvine T., Joshi S.H.-N., Bailey A., Jenkins C., Ulaeto D., Buscaill P. & <b>Gorochowski T.E.</b>",
     "journal": "Synthetic Biology",
-    "volume": "",
-    "number": "",
+    "volume": "10",
+    "number": "ysaf019",
     "year": 2025,
     "doi": "(in press)",
     "description": "The ability to precisely insert DNA payloads into a genome enables the comprehensive engineering of cellular phenotypes and the creation of new biotechnologies. To achieve such modifications, the most widely used techniques rely on a host cell's native DNA repair mechanisms like homologous recombination, which hampers their broader use in organisms lacking these capabilities. Here, we explore the current landscape of genome integration systems with a particular focus on those that function in bacteria and which are precise, self-contained and portable, placing minimal requirements on the host cell. Through a historical analysis, we observe long-term use of recombineering technologies, a recent rise in the use of CRISPR-guided systems that consist of associated integrase machinery, and growing efforts to modify non-model organisms. Looking forward, we highlight some of the remaining challenges and how synthetic genomics may offer a way to create bacterial strains optimised for extensive long-term modification. As the field of synthetic biology sets its sights on real-world impact, the effective engineering of genomes will be critical in shaping the robust phenotypes that applications demand."
-  },
-  {
-    "type": "publication",
-    "title": "SHARK: a specialized host for assembling R6K plasmids",
-    "authors": "Joshi S.H.-N., Jenkins C., Ulaeto D. & <b>Gorochowski T.E.</b>",
-    "journal": "bioRxiv",
-    "volume": "",
-    "number": "",
-    "year": 2025,
-    "doi": "10.1101/2025.10.06.680659",
-    "description": "R6K plasmids are commonly used for a wide range of genome engineering applications due to their ability to support transient delivery of genetic cargoes in many hosts. The maintenance of R6K plasmids requires specific strains. Unfortunately, many of these have obscure backgrounds, limited availability and were not built for efficient cloning. To address this issue, we present the construction and characterisation of a series of Pir E. coli strains called SHARK that are built from the DH10B derivative, Marionette-Clo. All SHARK strains have a genome encoded Pir gene for stable R6K plasmid maintenance and a λCI gene for tight unconditional repression of specific genes on plasmids. We show that SHARK strains are >100-fold more efficient than a commercial Pir strain for large and complex cloning reactions. SHARK is intended to help facilitate the cloning of large and complex R6K plasmids for challenging genome engineering projects, with all strains and genetic tools for their assembly being made publicly available."
   },
   {
     "type": "publication",
@@ -102,11 +102,11 @@
     "type": "publication",
     "title": "From FAIR to CURE: Guidelines for Computational Models of Biological Systems",
     "authors": "Sauro H.M., ..., <b>Gorochowski T.E.</b>, ... & Moraru I.",
-    "journal": "arXiv",
+    "journal": "npj Systems Biology and Applications",
     "volume": "",
-    "number": "2502.15597",
-    "year": 2025,
-    "doi": "10.48550/arXiv.2502.15597",
+    "number": "",
+    "year": 2026,
+    "doi": "10.1038/s41540-026-00651-0",
     "description": "Guidelines for managing scientific data have been established under the FAIR principles requiring that data be Findable, Accessible, Interoperable, and Reusable. In many scientific disciplines, especially computational biology, both data and models are key to progress. For this reason, and recognizing that such models are a very special type of 'data', we argue that computational models, especially mechanistic models prevalent in medicine, physiology and systems biology, deserve a complementary set of guidelines. We propose the CURE principles, emphasizing that models should be Credible, Understandable, Reproducible, and Extensible. We delve into each principle, discussing verification, validation, and uncertainty quantification for model credibility; the clarity of model descriptions and annotations for understandability; adherence to standards and open science practices for reproducibility; and the use of open standards and modular code for extensibility and reuse. We outline recommended and baseline requirements for each aspect of CURE, aiming to enhance the impact and trustworthiness of computational models, particularly in biomedical applications where credibility is paramount. Our perspective underscores the need for a more disciplined approach to modeling, aligning with emerging trends such as Digital Twins and emphasizing the importance of data and modeling standards for interoperability and reuse. Finally, we emphasize that given the non-trivial effort required to implement the guidelines, the community moves to automate as many of the guidelines as possible."
   },
   {
