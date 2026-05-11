@@ -1,6 +1,17 @@
 [
   {
     "type": "publication",
+    "title": "Knowledge preservation in the era of big science and AI: strategies for sustainable scientific research",
+    "authors": "Rainford P.F., Occhipinti A., Wang B., Stepney S., Angione C., Verma S., Marucci L., Sharma K., Harris S., Füchslin R.M., Klipp E., Grierson C.S., Weyland M.S., Mogre A., Fellermann H., Doan L.M.T, Gherman I., Pyne A., Rudge T.J., Berrelleza V.M.V. & <b>Gorochowski T.E.</b>",
+    "journal": "Nature Communications",
+    "volume": "17",
+    "number": "4069",
+    "year": 2026,
+    "doi": "10.1038/s41467-026-72667-3",
+    "description": "Science is losing knowledge it cannot afford to lose. Negative results go unpublished, hard-won expertise walks out the door with departing researchers, and preservation efforts remain fragmented. The consequences are wasted resources, duplicated effort, and missed discoveries. In this perspective, we argue that the research community can act now by embracing alternative dissemination channels, improving documentation best practices, and building sustainable digital infrastructure. We envision moderated platforms for sharing null results and practical know-how, community-driven standards, and AI-powered tools that lower barriers to implementation. With coordinated effort, science can become more open, efficient, and resilient for future generations."
+  },
+  {
+    "type": "publication",
     "title": "Optimization of regulatory DNA with active learning",
     "authors": "Shena Y., Kudlab G. & <b>Oyarzún D.A.</b>",
     "journal": "Computational and Structural Biotechnology Journal",
