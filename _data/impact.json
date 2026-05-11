@@ -18,7 +18,7 @@
     "volume": "15",
     "number": "867–875",
     "year": 2026,
-    "doi": "10.1101/2025.10.06.680659",
+    "doi": "10.1021/acssynbio.5c00749",
     "description": "R6K plasmids are commonly used for a wide range of genome engineering applications due to their ability to support transient delivery of genetic cargoes in many hosts. The maintenance of R6K plasmids requires specific strains. Unfortunately, many of these have obscure backgrounds, limited availability and were not built for efficient cloning. To address this issue, we present the construction and characterisation of a series of Pir E. coli strains called SHARK that are built from the DH10B derivative, Marionette-Clo. All SHARK strains have a genome encoded Pir gene for stable R6K plasmid maintenance and a λCI gene for tight unconditional repression of specific genes on plasmids. We show that SHARK strains are >100-fold more efficient than a commercial Pir strain for large and complex cloning reactions. SHARK is intended to help facilitate the cloning of large and complex R6K plasmids for challenging genome engineering projects, with all strains and genetic tools for their assembly being made publicly available."
   },
   {
