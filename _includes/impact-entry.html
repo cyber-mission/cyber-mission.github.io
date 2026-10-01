@@ -1,0 +1,28 @@
+{%- comment -%}
+Renders one talk, poster, outreach or grant entry. Missing or placeholder fields are skipped
+so that no empty links, doubled commas or stray brackets appear.
+{%- endcomment -%}
+{%- assign e = include.entry -%}
+{%- assign parts = "" | split: "," -%}
+{%- if e.name and e.name != "" -%}
+  {%- assign lead = e.name -%}
+{%- elsif e.title and e.title != "" and e.title != "???" -%}
+  {%- assign lead = e.title -%}
+  {%- if e.event and e.event != "" -%}{%- assign parts = parts | push: e.event -%}{%- endif -%}
+{%- else -%}
+  {%- assign lead = e.event -%}
+{%- endif -%}
+{%- assign field_list = include.fields | split: "," -%}
+{%- for field in field_list -%}
+  {%- assign v = e[field] -%}
+  {%- if v and v != "" and v != "???" -%}{%- assign parts = parts | push: v -%}{%- endif -%}
+{%- endfor -%}
+{%- assign extra = "" | split: "," -%}
+{%- assign extra_list = include.extras | split: "," -%}
+{%- for field in extra_list -%}
+  {%- assign v = e[field] -%}
+  {%- if v and v != "" and v != "???" -%}{%- if field == "speaker" -%}{%- capture v -%}<b>{{ v }}</b>{%- endcapture -%}{%- endif -%}{%- assign extra = extra | push: v -%}{%- endif -%}
+{%- endfor -%}
+{%- if e.url and e.url != "" -%}<b><a href="{{ e.url }}">{{ lead }}</a></b>{%- else -%}<b>{{ lead }}</b>{%- endif -%}
+{%- if parts.size > 0 -%}, {{ parts | join: ", " }}{%- endif -%}
+{%- if extra.size > 0 %} ({{ extra | join: "; " }}){%- endif -%}

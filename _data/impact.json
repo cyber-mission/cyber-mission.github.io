@@ -145,7 +145,7 @@
   },
   {
     "type": "talk",
-    "title": "Optimising genetically engineered microorganisms using 'Ecological Wind Tunnels'",
+    "title": "Optimising genetically engineered microorganisms using ‘Ecological Wind Tunnels’",
     "speaker": "Joseph Pennycook",
     "event": "Fundamental to Applied Biosciences Conference",
     "location": "Bristol, UK",
@@ -217,7 +217,6 @@
   },
   {
     "type": "talk",
-    "title": "???",
     "speaker": "Thierry Le Goff, NML",
     "event": "Industrial Biotechnology Innovation Catalyst (IBIC) Conference",
     "location": "Manchester, UK",
@@ -226,7 +225,6 @@
   },
   {
     "type": "talk",
-    "title": "???",
     "speaker": "Julian Braybrook, NML",
     "event": "ASEAN-UK Regional Training & Workshop",
     "location": "London, UK",
@@ -289,7 +287,7 @@
   },
   {
     "type": "talk",
-    "title": "What does the future of synthetic biology look like (invited keynote)",
+    "title": "What does the future of synthetic biology look like? (invited keynote)",
     "speaker": "Thomas Gorochowski",
     "event": "Microbial Engineering Symposium",
     "location": "Cambridge, UK",
@@ -307,7 +305,6 @@
   },
   {
     "type": "talk",
-    "title": "???",
     "speaker": "Yulia Yuzenkova",
     "event": "Interconnections and Cross-Regulation of Gene Expression Processes",
     "location": "Göttingen, Germany",
@@ -325,7 +322,6 @@
   },
   {
     "type": "poster",
-    "title": "???",
     "speaker": "Moubani Chakraborty",
     "event": "UKRI Engineering Biology Mission Hubs and Mission Awards Science Showcase",
     "location": "Manchester, UK",
@@ -361,7 +357,6 @@
   },
   {
     "type": "talk",
-    "title": "???",
     "speaker": "Moubani Chakraborty",
     "event": "Annual International RNA Polymerase Workshop",
     "location": "Birmingham, UK",
@@ -382,8 +377,6 @@
     "type": "grant",
     "name": "Bio-Security Prevent and Respond Programme",
     "funder": "DSIT",
-    "investigators": "???",
-    "value": "???",
     "id": "",
     "date": "2025–2026",
     "url": "https://algaecytes.com"

@@ -18,6 +18,7 @@ bodyClass: page-impact
         <div class="col-12 col-md-8">
             <div class="contact contact-single">
                 <h1 class="title">{{page.title}}</h1>
+                <div class="content">{{ content }}</div>
             </div>
         </div>
     </div>
@@ -55,7 +56,7 @@ bodyClass: page-impact
                 {% if talk.type == "talk" %}
                     <div class="content">
                         <p>
-                            <b><a href="{{talk.url}}">{{talk.title}}</a></b>, {{talk.event}}, {{talk.location}}, {{talk.date}} (<b>{{talk.speaker}}</b>)
+                            {% include impact-entry.html entry=talk fields="location,date" extras="speaker" %}
                         </p>
                     </div>
                 {% endif %}
@@ -75,7 +76,7 @@ bodyClass: page-impact
                 {% if poster.type == "poster" %}
                     <div class="content">
                         <p>
-                            <b><a href="{{poster.url}}">{{poster.title}}</a></b>, {{poster.event}}, {{poster.location}}, {{poster.date}} (<b>{{poster.speaker}}</b>)
+                            {% include impact-entry.html entry=poster fields="location,date" extras="speaker" %}
                         </p>
                     </div>
                 {% endif %}
@@ -95,7 +96,7 @@ bodyClass: page-impact
                 {% if outreach.type == "outreach" %}
                     <div class="content">
                         <p>
-                            <b><a href="{{outreach.url}}">{{outreach.title}}</a></b>, {{outreach.event}}, {{outreach.location}}, {{outreach.date}} (<b>{{outreach.speaker}}</b>)
+                            {% include impact-entry.html entry=outreach fields="location,date" extras="speaker" %}
                         </p>
                     </div>
                 {% endif %}
@@ -115,7 +116,7 @@ bodyClass: page-impact
             {% if grant.type == "grant" %}
                 <div class="content">
                     <p>
-                        <b><a href="{{grant.url}}">{{grant.name}}</a></b>, {{grant.funder}}, {{grant.id}}, {{grant.date}} ({{grant.value}}; {{grant.investigators}})
+                        {% include impact-entry.html entry=grant fields="funder,id,date" extras="value,investigators" %}
                     </p>
                 </div>
             {% endif %}
