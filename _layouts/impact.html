@@ -28,13 +28,14 @@ bodyClass: page-impact
     <div class="row justify-content-start">
         <div class="col-12 col-md-8">
             <h2>Publications</h2>
-            {% for publication in site.data.impact %}
+            {% assign publications = site.data.impact | where: "type", "publication" | sort: "date" | reverse %}
+            {% for publication in publications %}
             {% if publication.type == "publication" %}
                 <div class="content">
                     <p>
                         <b><a href="https://doi.org/{{publication.doi}}">{{publication.title}}</a></b><br>
                         {{publication.authors}}<br>
-                        <i>{{publication.journal}}</i> <b>{{publication.volume}}</b>, {{publication.number}}, {{publication.year}}
+                        <i>{{publication.journal}}</i>{% if publication.volume != "" %} <b>{{publication.volume}}</b>,{% endif %}{% if publication.number != "" %} {{publication.number}},{% endif %} {{publication.year}}
                     </p>
                 </div>
             {% endif %}
