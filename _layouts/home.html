@@ -34,14 +34,6 @@ bodyClass: page-home
             {% for objective in site.data.objectives %}
             <div class="col-12 col-md-6 col-lg-4 mb-2">
                 <div class="feature">
-                    {% if objective.image %}
-                    <div class="objective-image">
-                        <img
-                            alt="{{ objective.title }} logo"
-                            src="{{ objective.image | relative_url }}"
-                        />
-                    </div>
-                    {% endif %}
                     <h2 class="objective-title">{{ objective.title }}</h2>
                     <div class="objective-content">{{ objective.description }}</div>
                 </div>

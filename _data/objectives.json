@@ -2,37 +2,31 @@
   {
     "title": "De-Risk Environmental Synthetic Biology",
     "description": "Create ecological wind tunnels that mimic real-world complexity to assess the safety of engineered organisms.",
-    "image": "images/features/noun_branding_1885335.svg",
     "weight": 1
   },
   {
-    "title": "Programmable Cynanobacteria",
+    "title": "Programmable Cyanobacteria",
     "description": "Develop high-throughput experiments to create the genetic toolkits needed to reprogram environmentally important microbes.",
-    "image": "images/features/noun_The Process_1885341.svg",
     "weight": 2
   },
   {
     "title": "AI for Engineering Biology",
     "description": "Accelerate reliable cellular reprogramming by learning from diverse experimental data sets.",
-    "image": "images/features/noun_3d modeling_1885342.svg",
     "weight": 3
   },
   {
     "title": "Improved Cyber-Bio Security",
     "description": "Enable the traceability of engineered cells in natural environments to ensure trustworthiness.",
-    "image": "images/features/noun_3d modeling_1885342.svg",
     "weight": 3
   },
   {
     "title": "Biological Standards & Metrology",
     "description": "Demonstrate the power of rigorous applications of standards and metrology for biological engineering.",
-    "image": "images/features/noun_The Process_1885341.svg",
     "weight": 5
   },
   {
     "title": "Community Building",
     "description": "Establish the teams and connect to the people able to ensure the long-term benefits of this research are realised.",
-    "image": "images/features/noun_The Process_1885341.svg",
     "weight": 6
   }
 ]
