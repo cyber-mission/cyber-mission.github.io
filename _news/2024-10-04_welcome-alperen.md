@@ -1,9 +1,8 @@
 ---
 title: "Welcome Alperen"
-date: 2024-10-04T12:33:46+10:00
-featured: true
-weight: 2
-layout: blog
+date: 2024-10-04
+layout: news-item
+type: Blog
 ---
 
 ![Transfer Learning for Engineering Biology](/images/blogs/2024-10-04_welcome-alperen/2024-10-04_welcome-alperen.jpg){:class="img-responsive"}

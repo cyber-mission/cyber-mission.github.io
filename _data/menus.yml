@@ -8,12 +8,9 @@ main:
   - name: "Projects"
     url: "/projects/"
     weight: 4
-  - name: "Events"
-    url: "/events/"
+  - name: "News"
+    url: "/news/"
     weight: 5
-  - name: "Blog"
-    url: "/blogs/"
-    weight: 6
   - name: "Impact"
     url: "/impact/"
     weight: 7

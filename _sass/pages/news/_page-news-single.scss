@@ -1,4 +1,4 @@
-.page-blogs-single {
+.page-news-single {
   .content {
     > p {
       &:first-of-type {
@@ -10,4 +10,12 @@
       }
     }
   }
+}
+
+.news-subheading {
+  color: $black;
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 12px;
+  font-weight: 500;
 }

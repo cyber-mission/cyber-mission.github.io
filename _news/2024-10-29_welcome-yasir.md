@@ -1,9 +1,8 @@
 ---
 title: "Welcome Yasir"
-date: 2024-10-04T12:33:46+10:00
-featured: true
-weight: 3
-layout: blog
+date: 2024-10-29
+layout: news-item
+type: Blog
 ---
 ## Tell us a bit about yourself...
 
