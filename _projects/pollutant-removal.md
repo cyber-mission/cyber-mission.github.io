@@ -10,4 +10,4 @@ team:
   - Chris Clements
 ---
 
-We'll employ an advanced toolbox we develop, to engineer cyanobacteria specifically tailored for purifying water pollutants. Initially, these cyanobacteria will act like sponges, due to their absorbent cell envelope, soaking up heavy metals and pesticides present in the water. Subsequently, we'll selectively extract cyanobacteria laden with toxic substances from the water by the engineered magnetic tags. To facilitate the removal, we'll equip these cyanobacteria with inducible buoyancy capabilities, enabling them to rise to the surface at our command.
+We will use an advanced toolbox that we are developing to engineer cyanobacteria specifically tailored for purifying water pollutants. Initially, these cyanobacteria will act like sponges, due to their absorbent cell envelope, soaking up heavy metals and pesticides present in the water. We will then selectively extract the cyanobacteria laden with toxic substances from the water using engineered magnetic tags. To facilitate removal, we will equip these cyanobacteria with inducible buoyancy capabilities, enabling them to rise to the surface at our command.

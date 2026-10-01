@@ -8,8 +8,18 @@ $objective-colors: rgb(106, 85, 203), rgb(196, 39, 139), rgb(53, 180, 194),
   background-color: #ffffff;
   display: flex;
   flex-direction: column;
+  align-items: center;
   overflow: hidden;
+  img {
+    width: 100%;
+    height: auto;
+  }
+  .institution-image,
+  .partner-image {
+    padding: 20px;
+  }
   .objective-title {
+    align-self: stretch;
     margin: 0;
     padding: 14px 20px;
     color: #ffffff;
@@ -22,6 +32,9 @@ $objective-colors: rgb(106, 85, 203), rgb(196, 39, 139), rgb(53, 180, 194),
     background-color: rgb(106, 85, 203);
   }
   .objective-content {
+    color: $steel;
+    font-family: $font-family-base;
+    line-height: 26px;
     padding: 20px;
     margin-bottom: 0;
     text-align: center;

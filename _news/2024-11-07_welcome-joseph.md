@@ -6,7 +6,7 @@ type: Blog
 ---
 ## Tell us a bit about yourself.
 
-Hi, I'm Joseph Pennycook, and I'm going to be working with Chris Clements at the University of Bristol to test the function of genetically modified cyanobacteria in 'ecological wind tunnels': laboratory models where we will simulate the physical and biological conditions cells would encounter in the natural world. Most of my past research has focused on bacteria, but I'm really interested in ecology and evolution across all branches of the tree of life.
+Hi, I'm Joseph Pennycook, and I'm going to be working with Chris Clements at the University of Bristol to test the function of genetically modified cyanobacteria in ‘ecological wind tunnels’: laboratory models where we will simulate the physical and biological conditions cells would encounter in the natural world. Most of my past research has focused on bacteria, but I'm really interested in ecology and evolution across all branches of the tree of life.
 
 ## How did you end up working on the CYBER project?
 
@@ -18,7 +18,7 @@ I'm really excited to start culturing cyanobacteria and their protist predators,
 
 ## What do you think is going to be the toughest challenge for CYBER?
 
-In my role specifically, I expect that the hardest challenge will be balancing the design of the 'wind tunnels' to maximise their accuracy to natural environments while also keeping them simple enough that they remain useful tools. Across the whole project, I think that a vital part of the job will be balancing the considerations that engineered bacteria could do incredible good but also real harm in natural environments, and a key challenge will be effectively communicating both our excitement and our caution to the general public.
+In my role specifically, I expect that the hardest challenge will be balancing the design of the ‘wind tunnels’ to maximise their accuracy to natural environments while also keeping them simple enough that they remain useful tools. Across the whole project, I think that a vital part of the job will be balancing the considerations that engineered bacteria could do incredible good but also real harm in natural environments, and a key challenge will be effectively communicating both our excitement and our caution to the general public.
 
 ## Where do you see yourself headed in the future?
 

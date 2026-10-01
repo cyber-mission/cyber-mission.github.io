@@ -4,14 +4,10 @@ title: "CYBER Mission Award"
 
 google_analytics_id: "G-02FH50FMWB"
 
-homepage:
-  show_call_box: false
-
 logo:
   mobile: "images/logo/logo-mobile.svg"
   desktop_height: "24px"
   desktop: "images/logo/logo.svg"
-  desktop_height: "24px"
 
 footer:
   copyright_text: "CYBER Mission Award (supported by <a href=\"https://www.ukri.org/news/new-100m-fund-will-unlock-the-potential-of-engineering-biology/\">UKRI Technology Missions Fund</a> and the <a href=\"https://www.ukri.org/councils/bbsrc/\">BBSRC</a>)"
@@ -20,7 +16,7 @@ seo:
   meta_og_title: "CYBER"
   meta_og_type: "website"
   meta_og_url: "https://cyber-mission.github.io"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_image: "https://cyber-mission.github.io/images/illustrations/cyber-header.jpg"
   meta_og_description: "CYBER Mission Homepage"
   meta_twitter_card: "summary"
   meta_twitter_site: "@chofski"
@@ -30,7 +26,7 @@ collections:
   news:
     output: true
   projects:
-    output: true
+    output: false
   team:
     output: true
 

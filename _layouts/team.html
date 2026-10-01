@@ -17,7 +17,7 @@ layout: default
                 {% endif %}
                 <h1 class="title">{{page.title}}</h1>
                 <div class="content">
-                    <p><b>E-mail: </b><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+                    {% if page.email != "" %}<p><b>E-mail: </b><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>{% endif %}
                     {{ content }}
                 </div>
             </div>

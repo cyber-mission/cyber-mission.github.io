@@ -12,6 +12,6 @@ investigator: true
 weight: 2
 layout: team
 ---
-Dedicated to bridging the gap between scientific discovery and real-world impact, I am a metrologist (measurement scientist) with a passion for standardisation. With 15 years of experience as a researcher and science leader in academia and industry, and a decade of expertise in contract and commercial management, I am passionate about driving innovation in measurement science.
+Dedicated to bridging the gap between scientific discovery and real-world impact, I am a metrologist (measurement scientist) with a passion for standardisation. With 15 years of experience as a researcher and science leader in academia and industry, and a decade of expertise in contract and commercial management, I am committed to driving innovation in measurement science.
 
-As Commercial Director at the National Measurement Laboratory, I collaborate closely with industry, academia, and the UK government to develop and deliver cutting-edge chemical and bio-measurement solutions and provide regulatory support. My work focuses on critical areas such as Engineering Biology, Advanced Therapeutics and Diagnostics, Environmental Protection and Sustainability and Food Security and Supply.
+As Commercial Director at the National Measurement Laboratory, I collaborate closely with industry, academia, and the UK government to develop and deliver cutting-edge chemical and bio-measurement solutions and provide regulatory support. My work focuses on critical areas such as Engineering Biology, Advanced Therapeutics and Diagnostics, Environmental Protection and Sustainability, and Food Security and Supply.

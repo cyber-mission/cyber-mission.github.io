@@ -17,12 +17,12 @@ I’ve always been interested in combining AI with biology, and the CYBER projec
 
 ## What are you most excited about in your role?
 
-I’m really excited about the opportunity to work with such a diverse team of scientists and engineers. There’s something incredibly motivating about being part of a project that blends biology and AI to tackle big environmental challenges. I’m looking forward to using machine learning techniques to optimize biological systems in new ways. It’s exciting to think about the potential breakthroughs we could make, especially in area like sustainability.
+I’m really excited about the opportunity to work with such a diverse team of scientists and engineers. There’s something incredibly motivating about being part of a project that blends biology and AI to tackle big environmental challenges. I’m looking forward to using machine learning techniques to optimize biological systems in new ways. It’s exciting to think about the potential breakthroughs we could make, especially in areas like sustainability.
 
 ## What do you think is going to be the toughest challenge for CYBER?
 
 I think one of the hardest parts will be integrating biology with computational models, especially since biological systems can be unpredictable and messy. Translating the complexity of these systems into something that machine learning models can effectively handle is no easy task. And, of course, taking our ideas from the lab to real-world applications will be a big challenge. But that’s also part of what makes the project so interesting—it’s about finding ways to innovate while still staying grounded in practical solutions.
 
-## Where do you see yourself heading to in the future?
+## Where do you see yourself heading in the future?
 
 In the future, I hope to continue working at the intersection of AI and biology, perhaps leading my own research group one day. I’m really passionate about how AI can revolutionize fields like drug discovery and synthetic biology. Whether in academia or industry, I want to keep pushing the boundaries of what’s possible with computational biology, solving real-world problems along the way.

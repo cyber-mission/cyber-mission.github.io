@@ -40,7 +40,7 @@ bodyClass: page-team-list
                     {% endif %}
                 </div>
                 <div class="team-content">
-                    {{ team.content | truncate: 120 }}
+                    {{ team.content | strip_html | strip_newlines | truncate: 120 }}
                 </div>
             </div>
         </div>
