@@ -24,3 +24,14 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Bundler
+.bundle/
+vendor/
+Gemfile.lock

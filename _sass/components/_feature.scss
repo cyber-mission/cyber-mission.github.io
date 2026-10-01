@@ -15,6 +15,10 @@ $objective-colors: rgb(106, 85, 203), rgb(196, 39, 139), rgb(53, 180, 194),
     color: #ffffff;
     font-size: 1.25rem;
     text-align: center;
+    min-height: 5.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: rgb(106, 85, 203);
   }
   .objective-content {
